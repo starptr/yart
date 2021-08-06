@@ -6,13 +6,38 @@ import html from 'remark-html'
 
 const postsDirectory = path.join(process.cwd(), 'posts')
 
-export function getSortedPostsData() {
-  // Get file names under /posts
-  const fileNames = fs.readdirSync(postsDirectory)
-  const allPostsData = fileNames.map(fileName => {
+// Get a list of post names
+function getPostsName(): string[] {
+    // Get file names under /posts
+    const fileNames = fs.readdirSync(postsDirectory);
     // Remove ".md" from file name to get id
-    const id = fileName.replace(/\.md$/, '')
+    const postsNames = fileNames.map(fileName => fileName.replace(/\.md$/, ''));
+    return postsNames;
+}
 
+// Cache mapping dictionary
+export type MdSlugDict = Map<string, string>;
+// Get mapping dict itself
+export function getMdToSlugDict(): MdSlugDict {
+    let mdSlugDict = new Map();
+    // Get posts (we only have posts for now)
+    const postsNames = getPostsName();
+    // Add posts to dict
+    postsNames.forEach(id => mdSlugDict.set(id, `/p/${id}`));
+
+    return mdSlugDict;
+}
+
+export interface PostData {
+    date: string;
+    title: string;
+    id: string;
+};
+
+// Get a sorted list of posts metadatas
+export function getSortedPostsData(): PostData[] {
+  const postsNames = getPostsName();
+  const allPostsData = postsNames.map(fileName => {
     // Read markdown file as string
     const fullPath = path.join(postsDirectory, fileName)
     const fileContents = fs.readFileSync(fullPath, 'utf8')

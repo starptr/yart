@@ -1,17 +1,15 @@
-import Head from 'next/head'
-import Layout, { siteTitle } from '../components/layout'
-import utilStyles from '../styles/utils.module.css'
+import Head from 'next/head';
+import Layout, { siteTitle } from '../components/layout';
+import utilStyles from '../styles/utils.module.css';
 import Card from '../components/card';
+import { getMdToSlugDict, getSortedPostsData, PostData } from '../lib/posts';
+import { GetStaticProps } from 'next';
 
-export default function Home({
-  allPostsData
-}: {
-  allPostsData: {
-    date: string
-    title: string
-    id: string
-  }[]
-}) {
+export interface HomeProps {
+    mdSlugDict: {[key: string]: string};
+};
+
+export default function Home(props: HomeProps) {
   return (
     <Layout home>
       <Head>
@@ -23,12 +21,12 @@ export default function Home({
         </div>
       </section>
       <section className={`grid`}>
-        <Card href="/pages/about" subtitle="what's YART?">about</Card>
-        <Card href="/pages/about" subtitle="Yuto's Amazing Rad Trinkets">YART</Card>
-        <Card href="/pages/grammophon" subtitle="musical timeline">Grammophon</Card>
-        <Card href="/pages/watchtime" subtitle="best-of youtube">watchtime</Card>
-        <Card href="/pages/yutoji" subtitle="custom emojis">yutoji</Card>
-        <Card href="/pages/pen" subtitle="tooling">pen</Card>
+        <Card href="/about" subtitle="what's YART?">about</Card>
+        <Card href="/about" subtitle="Yuto's Amazing Rad Trinkets">YART</Card>
+        <Card href="/grammophon" subtitle="musical timeline">Grammophon</Card>
+        <Card href="/watchtime" subtitle="best-of youtube">watchtime</Card>
+        <Card href="/yutoji" subtitle="custom emojis">yutoji</Card>
+        <Card href="/pen" subtitle="tooling">pen</Card>
       </section>
       <style jsx>{`
         .grid {
@@ -45,3 +43,12 @@ export default function Home({
     </Layout>
   )
 }
+
+export const getStaticProps: GetStaticProps = async () => {
+  const mdSlugDict = getMdToSlugDict();
+  return {
+    props: {
+      mdSlugDict: Object.fromEntries(mdSlugDict),
+    },
+  };
+};

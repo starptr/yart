@@ -1,0 +1,44 @@
+$thickness: 2px;
+
+.line {
+    width: calc(50% + #{$thickness} / 2);
+    height: 100%;
+    border-right: $thickness solid black;
+    margin-bottom: -100%;
+}
+
+.dotCell {
+	width: 3.5em;
+	height: 3.5em;
+}
+
+.big {
+	width: 3em;
+	height: 3em;
+}
+.small {
+	width: 1em;
+	height: 1em;
+}
+
+.circleWrapper {
+    width: 100%;
+    height: 100%;
+}
+.circle {
+	border-radius: 9999px;
+	background-color: black;
+}
+
+.season {
+    word-spacing: 0.3em;
+    color: #bbb;
+}
+.seasonContainer {
+    white-space: nowrap;
+}
+
+.text {
+	margin: 0;
+	padding-left: 2rem;
+}
