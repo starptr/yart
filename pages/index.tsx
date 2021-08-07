@@ -2,8 +2,6 @@ import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
 import Card from '../components/card';
-import { getMdToSlugDict, getSortedPostsData, PostData } from '../lib/posts';
-import { GetStaticProps } from 'next';
 
 export interface HomeProps {
     mdSlugDict: {[key: string]: string};
@@ -43,12 +41,3 @@ export default function Home(props: HomeProps) {
     </Layout>
   )
 }
-
-export const getStaticProps: GetStaticProps = async () => {
-  const mdSlugDict = getMdToSlugDict();
-  return {
-    props: {
-      mdSlugDict: Object.fromEntries(mdSlugDict),
-    },
-  };
-};

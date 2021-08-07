@@ -38,22 +38,25 @@ export function Year(props: YearProps) {
 	</div>;
 };
 
-const seasons = ["winter", "autumn", "summer", "spring"];
-const seasonTexts = [
-    "hiver 冬 winter зима 겨울 talvi dunra fa",
-    "automne 秋 herbst осень 가을 syksy critu si",
-    "été 夏 sommer лето 여름 kesä crisa la",
-    "printemps 春 frühling весна 봄 kevät vensa sol",
-];
 export interface SeasonProps {
-    seasonIndex: number;
+	children: React.ReactNode;
+    grayed?: string;
 };
 export function Season(props: SeasonProps) {
     return <div className={`${utilStyles.centerH}`}>
         <h2 className={`${styles.seasonContainer} ${styles.text} ${utilStyles.heading2Md}`}>
-            {seasons[props.seasonIndex]}
-            <span className={styles.season}> {seasonTexts[props.seasonIndex]}</span>
+			{props.children}
+            {props.grayed && <span className={styles.season}> {props.grayed}</span>}
         </h2>
+	</div>;
+};
+
+export interface GroupProps {
+	children: React.ReactNode;
+};
+export function Group(props: GroupProps) {
+	return <div className={`${utilStyles.centerH}`}>
+        <p className={`${styles.text} ${utilStyles.headingMd}`}>{ props.children }</p>
 	</div>;
 };
 

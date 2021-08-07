@@ -2,23 +2,10 @@ import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
 import Card from '../components/card';
-import { Line, Year, Season, List } from '../components/grammophon';
+import { Line, Year, Season, Group, List } from '../components/grammophon';
 import { GetStaticProps } from 'next';
 import grammophonData from "../public/grammophon.json";
-
-function grammophonJsonToArray(data) {
-    let yr = (new Date()).getFullYear();
-    // Skip current year if nonexistent
-    if (!data.hasOwnProperty(yr.toString())) yr--;
-
-    let ans = [];
-    // Until the year is too old
-    while (data.hasOwnProperty(yr.toString())) {
-        ans.push({data: data[yr.toString()], yr});
-        yr--;
-    }
-    return ans;
-};
+import { getTimelineData, TimelineData, Row } from "../lib/songs";
 
 // Convert song data to a bullet point
 function songToJsx(song) {
@@ -34,20 +21,29 @@ function songToJsx(song) {
 }
 
 function Timeline(props) {
-    const data = grammophonJsonToArray(props.data);
+    //const data = grammophonJsonToArray(props.data);
+	const data = props.data;
     return <section className={`grid`}>
-        {data.map(({data, yr}) => <>
-            <Line isDot isBig />
-            <Year>{ yr }</Year>
-            {data.map((data, i) => <>
-                <Line isDot />
-                <Season seasonIndex={i} />
-                <Line />
-                <List>
-                    {data.map(song => songToJsx(song))}
-                </List>
-            </>)}
-        </>)}
+		{data.map(row => {
+			if (row.year) return <>
+				<Line isDot isBig />
+				<Year>{ row.year }</Year>
+			</>;
+			if (row.season) return <>
+				<Line isDot />
+				<Season grayed={row.seasonText}>{ row.season }</Season>
+			</>;
+			if (row.group) return <>
+				<Line />
+				<Group>{ row.group }</Group>
+			</>;
+			if (row.songs) return <>
+				<Line />
+				<List>
+					{row.songs.map(songToJsx)}
+				</List>
+			</>;
+		})}
 		<style jsx>{`
             ::marker {
                 font-size: 12pt;
@@ -62,7 +58,9 @@ function Timeline(props) {
 	</section>;
 };
 
-export interface GrammophonProps {};
+export interface GrammophonProps {
+	data: TimelineData;
+};
 
 export default function Grammophon(props: GrammophonProps) {
 	return (
@@ -71,7 +69,16 @@ export default function Grammophon(props: GrammophonProps) {
 				<title>Grammophon — {siteTitle}</title>
 			</Head>
 			<h1 style={{ textAlign: "center" }} className={utilStyles.heading2Xl}>Grammophon</h1>
-			<Timeline data={grammophonData} />
+			<Timeline data={props.data} />
 		</Layout>
 	);
+};
+
+export const getStaticProps: GetStaticProps = () => {
+	const data = getTimelineData();
+	return {
+		props: {
+			data,
+		},
+	};
 };
