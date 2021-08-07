@@ -50,7 +50,7 @@ export function getTimelineData(): TimelineData {
 				groups.forEach(group => {
 					let [[groupName, songs]] = Object.entries(group);
 					data.push({ group: groupName });
-					data.push({ songs });
+					data.push({ songs: songs as Song[] });
 				});
 			}
 		}
