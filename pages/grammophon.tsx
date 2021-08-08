@@ -1,14 +1,12 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
-import Card from '../components/card';
 import { Line, Year, Season, Group, List } from '../components/grammophon';
 import { GetStaticProps } from 'next';
-import grammophonData from "../public/grammophon.json";
-import { getTimelineData, TimelineData, Row } from "../lib/songs";
+import { getTimelineData, TimelineData, Row, Song } from "../lib/songs";
 
 // Convert song data to a bullet point
-function songToJsx(song) {
+function songToJsx(song: Song) {
     let trackName: string;
     if (song.title && song.album) {
         trackName = `${song.title} by ${song.artist} from ${song.album}`;
@@ -20,7 +18,7 @@ function songToJsx(song) {
     return <li>{ trackName }</li>;
 }
 
-function Timeline(props) {
+function Timeline(props: { data: Row[]}) {
     //const data = grammophonJsonToArray(props.data);
 	const data = props.data;
     return <section className={`grid`}>
