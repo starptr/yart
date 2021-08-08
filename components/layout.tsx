@@ -36,11 +36,11 @@ export default function Layout({
       <header className={styles.header}>
         {home ? (
           <>
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className={`${utilStyles.heading2Xl} ${utilStyles.bold}`}>{name}</h1>
           </>
         ) : (
           <>
-            <h2 className={utilStyles.headingLg}>
+            <h2 className={`${utilStyles.headingLg} ${utilStyles.bold}`}>
               <Link href="/">
                 <a className={utilStyles.colorInherit}>{name}</a>
               </Link>
