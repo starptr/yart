@@ -2,17 +2,18 @@ import styles from './grammophon.module.scss';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-function Segment(props) {
+function Segment(props: any) {
     return <div {...props} className={styles.line} />;
 }
 
-function DotCell(props) {
+function DotCell(props: any) {
     return <div {...props} className={styles.dotCell} />;
 }
 
 export interface LineProps {
     isDot?: boolean;
     isBig?: boolean;
+    isFilled?: boolean;
 };
 
 // Multipurpose element that make up Timeline
@@ -23,7 +24,11 @@ export function Line(props: LineProps) {
         <DotCell>
 	    	<Segment />
 	        <div className={`${styles.circleWrapper} ${utilStyles.centerV}`}>
-	    	    <div className={`${props.isBig ? styles.big : styles.small} ${styles.circle}`} />
+	    	    <div className={`
+	    	        ${props.isBig ? styles.big : styles.small}
+	    	        ${props.isFilled ? styles.fill : ""}
+	    	        ${styles.circle}`}
+	    	    />
 	        </div>
 	    </DotCell>
 	);
@@ -34,7 +39,7 @@ export interface YearProps {
 };
 export function Year(props: YearProps) {
     return <div className={`${utilStyles.centerH}`}>
-        <h2 className={`${styles.text} ${utilStyles.headingXl}`}>{ props.children }</h2>
+        <h2 className={`${styles.text} ${utilStyles.headingXl} ${utilStyles.light}`}>{ props.children }</h2>
 	</div>;
 };
 
@@ -44,7 +49,7 @@ export interface SeasonProps {
 };
 export function Season(props: SeasonProps) {
     return <div className={`${utilStyles.centerH}`}>
-        <h2 className={`${styles.seasonContainer} ${styles.text} ${utilStyles.heading2Md}`}>
+        <h2 className={`${styles.seasonContainer} ${styles.text} ${utilStyles.headingMd} ${utilStyles.light}`}>
 			{props.children}
             {props.grayed && <span className={styles.season}> {props.grayed}</span>}
         </h2>
@@ -56,7 +61,7 @@ export interface GroupProps {
 };
 export function Group(props: GroupProps) {
 	return <div className={`${utilStyles.centerH}`}>
-        <p className={`${styles.text} ${utilStyles.headingMd}`}>{ props.children }</p>
+        <p className={`${styles.text} ${utilStyles.headingMd} ${utilStyles.bold}`}>{ props.children }</p>
 	</div>;
 };
 

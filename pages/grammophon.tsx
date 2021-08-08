@@ -15,14 +15,22 @@ function songToJsx(song: Song) {
     } else if (song.album) {
         trackName = `${song.album} by ${song.artist}`;
     }
-    return <li>{ trackName }</li>;
+    return <li>
+        { trackName }
+		<style jsx>{`
+            ::marker {
+                font-size: 12pt;
+            }
+		`}</style>
+    </li>;
 }
 
 function Timeline(props: { data: Row[]}) {
     //const data = grammophonJsonToArray(props.data);
 	const data = props.data;
     return <section className={`grid`}>
-		{data.map(row => {
+		{data.map((row, index) => {
+		    // TODO: change first Line styling
 			if (row.year) return <>
 				<Line isDot isBig />
 				<Year>{ row.year }</Year>
@@ -32,7 +40,7 @@ function Timeline(props: { data: Row[]}) {
 				<Season grayed={row.seasonText}>{ row.season }</Season>
 			</>;
 			if (row.group) return <>
-				<Line />
+				<Line isDot isFilled />
 				<Group>{ row.group }</Group>
 			</>;
 			if (row.songs) return <>
@@ -43,10 +51,6 @@ function Timeline(props: { data: Row[]}) {
 			</>;
 		})}
 		<style jsx>{`
-            ::marker {
-                font-size: 12pt;
-            }
-
 			.grid {
 				display: grid;
 				grid-template-columns: auto minmax(0, 1fr);
@@ -66,7 +70,7 @@ export default function Grammophon(props: GrammophonProps) {
 			<Head>
 				<title>Grammophon — {siteTitle}</title>
 			</Head>
-			<h1 style={{ textAlign: "center" }} className={utilStyles.heading2Xl}>Grammophon</h1>
+			<h1 style={{ textAlign: "center" }} className={`${utilStyles.heading2Xl} ${utilStyles.bold}`}>Grammophon</h1>
 			<Timeline data={props.data} />
 		</Layout>
 	);
