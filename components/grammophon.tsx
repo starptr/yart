@@ -15,10 +15,10 @@ export function Album(props: { children: string }) {
     return <>💽&nbsp;{props.children}</>;
 };
 
-const iconJsxMapping = {
-    "youtube": <IconContext.Provider value={{ color: "#f00", className: styles.icon }}><span><GrYoutube /></span></IconContext.Provider>,
-    "spotify": <IconContext.Provider value={{ color: "#1db954", className: styles.icon }}><span><GrSpotify /></span></IconContext.Provider>,
-    "soundcloud": <IconContext.Provider value={{ color: "#fe5000", className: styles.icon }}><span><GrSoundcloud /></span></IconContext.Provider>,
+export const iconJsxMapping = {
+    "youtube": <span className={`${styles.icon} ${styles.youtube}`}><GrYoutube /></span>,
+    "spotify": <span className={`${styles.icon} ${styles.spotify}`}><GrSpotify /></span>,
+    "soundcloud": <span className={`${styles.icon} ${styles.soundcloud}`}><GrSoundcloud /></span>,
 };
 export interface LinkProps {
     icon: string;
