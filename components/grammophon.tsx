@@ -1,14 +1,42 @@
 import styles from './grammophon.module.scss';
 import utilStyles from '../styles/utils.module.css';
-import Link from 'next/link';
+import { GrYoutube, GrSoundcloud, GrSpotify } from 'react-icons/gr';
+import { IconContext } from 'react-icons';
+
+export function Title(props: { children: string }) {
+    return <>🎶&nbsp;{props.children}</>;
+};
+
+export function Artist(props: { children: string }) {
+    return <>🎨&nbsp;{props.children}</>;
+};
+
+export function Album(props: { children: string }) {
+    return <>💽&nbsp;{props.children}</>;
+};
+
+const iconJsxMapping = {
+    "youtube": <IconContext.Provider value={{ color: "#f00", className: styles.icon }}><span><GrYoutube /></span></IconContext.Provider>,
+    "spotify": <IconContext.Provider value={{ color: "#1db954", className: styles.icon }}><span><GrSpotify /></span></IconContext.Provider>,
+    "soundcloud": <IconContext.Provider value={{ color: "#fe5000", className: styles.icon }}><span><GrSoundcloud /></span></IconContext.Provider>,
+};
+export interface LinkProps {
+    icon: string;
+    link: string;
+};
+export function Link(props: LinkProps) {
+    return <a href={props.link}>
+        {iconJsxMapping[props.icon]}
+    </a>;
+};
 
 function Segment(props: any) {
     return <div {...props} className={styles.line} />;
-}
+};
 
 function DotCell(props: any) {
     return <div {...props} className={styles.dotCell} />;
-}
+};
 
 export interface LineProps {
     isDot?: boolean;
@@ -71,7 +99,7 @@ export interface ListProps {
 };
 export function List(props: ListProps) {
     return <div>
-        <ul className={styles.text}>
+        <ul className={`${styles.text} ${styles.list}`}>
             { props.children }
         </ul>
 	</div>;

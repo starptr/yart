@@ -1,23 +1,26 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
-import { Line, Year, Season, Group, List } from '../components/grammophon';
+import { Line, Year, Season, Group, List, Title, Artist, Album, Link as GLink, Conjunction } from '../components/grammophon';
 import { GetStaticProps } from 'next';
 import { getTimelineData, TimelineData, Row, Song } from "../lib/songs";
 
 // Convert song data to a bullet point
 function songToJsx(song: Song) {
-    let trackName: string;
-    if (song.title && song.album) {
-        trackName = `${song.title} by ${song.artist} from ${song.album}`;
-    } else if (song.title) {
-        trackName = `${song.title} by ${song.artist}`;
-    } else if (song.album) {
-        trackName = `${song.album} by ${song.artist}`;
-    }
+    // when title exists
     return <li>
-        { trackName }
+        {song.title ? <Title>{song.title}</Title> : <Album>{song.album}</Album>}
+        {" "}
+        <Artist>{song.artist}</Artist>
+        {song.title && song.album && <>
+            <Album>{song.album}</Album>
+        </>}
+        {" "}
+        {song.links && Object.entries(song.links).map(([icon, link]) => <GLink link={link} icon={icon} />)}
 		<style jsx>{`
+		    li {
+		        padding-bottom: 0.2em;
+		    }
             ::marker {
                 font-size: 12pt;
             }
