@@ -32,7 +32,7 @@ function Timeline(props: { data: Row[]}) {
 		{data.map((row, index) => {
 		    // TODO: change first Line styling
 			if (row.year) return <>
-				<Line isDot isBig />
+				<Line isDot isBig isFirst={index === 0} />
 				<Year>{ row.year }</Year>
 			</>;
 			if (row.season) return <>

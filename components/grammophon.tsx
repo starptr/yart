@@ -14,6 +14,7 @@ export interface LineProps {
     isDot?: boolean;
     isBig?: boolean;
     isFilled?: boolean;
+    isFirst?: boolean;
 };
 
 // Multipurpose element that make up Timeline

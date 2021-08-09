@@ -11,6 +11,17 @@ $thickness: 2px;
 	min-height: 3.5em;
 }
 
+.dotCell:first-child > .line {
+    border-right: none;
+    &::after {
+        display: block;
+        height: 50%;
+        transform: translateY(100%);
+        border-right: $thickness solid black;
+        content: "";
+    }
+}
+
 .big {
 	width: 3em;
 	height: 3em;

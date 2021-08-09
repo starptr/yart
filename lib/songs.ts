@@ -33,6 +33,13 @@ export function getTimelineData(): TimelineData {
 	const unorgData = YAML.parse(file);
 	let data: TimelineData = [];
 	let yr = (new Date()).getFullYear();
+
+    const pushGroupToData = (group: { [key: string]: Song[] }) => {
+		let [[groupName, songs]] = Object.entries(group);
+		data.push({ group: groupName });
+		data.push({ songs: songs as Song[] });
+	};
+
     // Skip current year if nonexistent
 	if (!unorgData.hasOwnProperty(yr.toString())) yr--;
 
@@ -40,18 +47,15 @@ export function getTimelineData(): TimelineData {
 		data.push({ year: yr });
 		let seasonsOrGroups = unorgData[yr.toString()];
 		if (Array.isArray(seasonsOrGroups)) {
-			// TODO: we have groups
+		    // we have groups
+			seasonsOrGroups.forEach(pushGroupToData);
 		} else {
 			for (let i = 0; i < seasons.length; i++) {
 				if (!seasonsOrGroups.hasOwnProperty(seasons[i])) continue;
 
 				data.push({ season: seasons[i], seasonText: seasonTexts[i] });
 				let groups = seasonsOrGroups[seasons[i]];
-				groups.forEach(group => {
-					let [[groupName, songs]] = Object.entries(group);
-					data.push({ group: groupName });
-					data.push({ songs: songs as Song[] });
-				});
+				groups.forEach(pushGroupToData);
 			}
 		}
 
