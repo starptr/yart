@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
-import { Line, Year, Season, Group, List, Title, Artist, Album, Link as GLink, Conjunction } from '../components/grammophon';
+import { Line, Year, Season, Group, List, Title, Artist, Album, Link as GLink } from '../components/grammophon';
 import { GetStaticProps } from 'next';
 import { getTimelineData, TimelineData, Row, Song } from "../lib/songs";
 
@@ -33,7 +33,6 @@ function Timeline(props: { data: Row[]}) {
 	const data = props.data;
     return <section className={`grid`}>
 		{data.map((row, index) => {
-		    // TODO: change first Line styling
 			if (row.year) return <>
 				<Line isDot isBig isFirst={index === 0} />
 				<Year>{ row.year }</Year>
