@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../components/layout';
 import utilStyles from '../styles/utils.module.css';
-import { Line, Year, Season, Group, List, Title, Artist, Album, Link as GLink } from '../components/grammophon';
+import { iconJsxMapping, Line, Year, Season, Group, List, Title, Artist, Album, Link as GLink } from '../components/grammophon';
 import { GetStaticProps } from 'next';
 import { getTimelineData, TimelineData, Row, Song } from "../lib/songs";
 
@@ -73,7 +73,26 @@ export default function Grammophon(props: GrammophonProps) {
 				<title>Grammophon — {siteTitle}</title>
 			</Head>
 			<h1 style={{ textAlign: "center" }} className={`${utilStyles.heading2Xl} ${utilStyles.bold}`}>Grammophon</h1>
+			<div className={utilStyles.centerV}>
+			    <p>the comprehensive* list of music I know</p>
+			    <p className="small">* incomplete before 2021</p>
+			</div>
 			<Timeline data={props.data} />
+			<h2 className={`${utilStyles.headingLg} ${utilStyles.bold}`}>Key</h2>
+			<p>🎶&nbsp;song title, piece, or movement</p>
+			<p>💽&nbsp;album or full work</p>
+			<p>🎨&nbsp;artist or composer</p>
+			<h3 className={utilStyles.headingMd}>Links</h3>
+			{Object.entries(iconJsxMapping).map(([text, icon]) => <p>{icon}&nbsp;&nbsp;{text}</p>)}
+			<style jsx>{`
+                p {
+                    margin: 0;
+                }
+
+                .small {
+                    font-size: 0.8rem;
+                }
+		    `}</style>
 		</Layout>
 	);
 };
