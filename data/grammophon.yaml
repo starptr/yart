@@ -106,7 +106,24 @@
           youtube: https://www.youtube.com/playlist?list=PLBKadB95sF45_hO-yB_W3yvgDepkKE0C1
 '2020':
   winter:
+    - dark noon:
+      - title: Ease Out
+        artist: softy
+        links:
+          spotify: https://open.spotify.com/track/5cyZufWEEbEpZgpqqDCA5x?si=3f0f0a4807ba4dc5
+      - title: Hello, World
+        artist: Louie Zong
+        links:
+          youtube: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+      - title: Rêve Lucide
+        artist: LÜNE
+        links:
+          youtube: https://www.youtube.com/watch?v=qoBIyxWEiOw
     - "who turned off the sun >:(":
+      - title: Jazz Circulation
+        artist: Nugnug, 物語シリーズ
+        links:
+          youtube: https://www.youtube.com/watch?v=OU-VZbMmcNA
       - title: HOLIDAY
         artist: Lil Nas X
         links:
@@ -124,19 +141,6 @@
         links:
           youtube: https://www.youtube.com/watch?v=XF8xFUCSXWA
           meme: true
-    - dark noon:
-      - title: Ease Out
-        artist: softy
-        links:
-          spotify: https://open.spotify.com/track/5cyZufWEEbEpZgpqqDCA5x?si=3f0f0a4807ba4dc5
-      - title: Hello, World
-        artist: Louie Zong
-        links:
-          youtube: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
-      - title: Rêve Lucide
-        artist: LÜNE
-        links:
-          youtube: https://www.youtube.com/watch?v=qoBIyxWEiOw
   summer:
     - zooming badly:
       - album: Djesse Vol. 3
