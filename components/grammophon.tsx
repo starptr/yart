@@ -1,6 +1,9 @@
+import Image from 'next/image';
 import styles from './grammophon.module.scss';
 import utilStyles from '../styles/utils.module.css';
 import { GrYoutube, GrSoundcloud, GrSpotify } from 'react-icons/gr';
+import { SiTiktok } from 'react-icons/si';
+import Meme from '../public/images/lol.png';
 import { IconContext } from 'react-icons';
 
 export function Title(props: { children: string }) {
@@ -19,12 +22,16 @@ export const iconJsxMapping = {
     "youtube": <span className={`${styles.icon} ${styles.youtube}`}><GrYoutube /></span>,
     "spotify": <span className={`${styles.icon} ${styles.spotify}`}><GrSpotify /></span>,
     "soundcloud": <span className={`${styles.icon} ${styles.soundcloud}`}><GrSoundcloud /></span>,
+    "douyin": <span className={`${styles.icon} ${styles.douyin}`}><SiTiktok /></span>,
+    "tiktok": <span className={`${styles.icon} ${styles.tiktok}`}><SiTiktok /></span>,
+    "meme": <span className={`${styles.icon}`}><Image src={Meme} width="20" height="20" /></span>,
 };
 export interface LinkProps {
     icon: string;
-    link: string;
+    link: string | boolean;
 };
 export function Link(props: LinkProps) {
+    if (typeof props.link === "boolean") return iconJsxMapping[props.icon];
     return <a href={props.link}>
         {iconJsxMapping[props.icon]}
     </a>;

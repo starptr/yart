@@ -67,6 +67,7 @@ $thickness: 2px;
 .icon {
     display: inline-block;
     transform: translateY(2px);
+    margin-right: 4px;
 }
 
 .youtube {
@@ -77,4 +78,10 @@ $thickness: 2px;
 }
 .soundcloud {
     color: #fe5000;
+}
+.tiktok {
+    color: #000000;
+}
+.douyin {
+    color: #e0e0e0;
 }

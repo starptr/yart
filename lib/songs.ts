@@ -8,7 +8,7 @@ export interface Song {
 	title?: string;
 	album?: string;
 	artist: string;
-	links?: { [key: string]: string; };
+	links?: { [key: string]: string | boolean; };
 };
 
 export interface Row {
