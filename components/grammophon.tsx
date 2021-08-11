@@ -32,7 +32,7 @@ export interface LinkProps {
 };
 export function Link(props: LinkProps) {
     if (typeof props.link === "boolean") return iconJsxMapping[props.icon];
-    return <a href={props.link}>
+    return <a href={props.link} target="_blank">
         {iconJsxMapping[props.icon]}
     </a>;
 };
