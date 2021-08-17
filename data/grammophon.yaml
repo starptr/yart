@@ -1,5 +1,12 @@
 ---
 '2021':
+  autumn:
+    - a japanese in berkeley:
+      - title: An American in Paris
+        artist: Gershwin
+        links:
+          spotify: https://open.spotify.com/track/7tMaOTu32tb7G2Ieb9ULY8?si=0edef6d4e9824391
+          classical: true
   summer:
     - a long summer round 2:
       - title: Among Drip Song 2
@@ -93,6 +100,12 @@
           youtube: https://www.youtube.com/watch?v=Ns3YxbIhTRM
           tiktok: true
           meme: true
+      - title: among us drip major key
+        artist: SharkFaceGamingStuffNThings, Leonz
+        links:
+          youtube: https://www.youtube.com/watch?v=RD80nA_NY8s
+          tiktok: true
+          meme: true
       - title: Among Us Drip
         artist: Leonz
         links:
@@ -135,6 +148,12 @@
         artist: LÜNE
         links:
           youtube: https://www.youtube.com/watch?v=qoBIyxWEiOw
+      - title: Mi Pan Su Su Sum
+        artist: Miel Pops
+        links:
+          youtube: https://www.youtube.com/watch?v=0ra3NM2MJj4
+          meme: true
+          tiktok: true
     - "who turned off the sun >:(":
       - title: Jazz Circulation
         artist: Nugnug, 物語シリーズ
@@ -230,11 +249,11 @@
         artist: BTS
         links:
           spotify: https://open.spotify.com/track/0I08kzlwHEkBNCioRjODFc?si=be4909884d344b50
-      - title: Replay -君は僕のeverything-
+      - title: Replay -君は僕の everything-
         artist: SHINee
         links:
           spotify: https://open.spotify.com/track/460eZcZsxNbWcs1DQDC9P8?si=ed7c9ada93754b69
-      - title: LA・LA・LA LOVE SONG
+      - title: LA ・ LA ・ LA LOVE SONG
         artist: Exile
         links:
           spotify: https://open.spotify.com/track/4fz3FktpOpbQ4YzG8yslvX?si=857a1df7c424484c
@@ -376,10 +395,10 @@
         links:
           spotify: https://open.spotify.com/track/4Cuh5uqjIgUw4GRxqABUxh?si=d38d67d8c6914247
       - title: I Love...
-        artist: Official髭男dism
+        artist: Official 髭男 dism
         links:
           spotify: https://open.spotify.com/track/4pRqq3MwcqitKqNO8rOrOb?si=84fed3cfb6004b5f
-      - title: 愛tears
+      - title: 愛 tears
         artist: Nissy(西島隆弘)
         links:
           spotify: https://open.spotify.com/track/67quWcug8Ems1SfRAYHgVq?si=228426daf56b488d
@@ -404,6 +423,11 @@
         links:
           youtube: https://www.youtube.com/watch?v=HylC6f8FLtY
   spring:
+    - music board:
+      - title: 神さま達
+        artist: 久石 譲 (Joe Hisaishi)
+        links:
+          spotify: https://open.spotify.com/track/3A08CelXmym3C9KpaG0ct4?si=ce0317f1283945bd
     - let's trade music:
       - title: September
         artist: Earth, Wind & Fire
@@ -491,7 +515,7 @@
         links:
           youtube: https://www.youtube.com/watch?v=ypNJMDlJvY4
       - title: Pretender
-        artist: Official髭男dism
+        artist: Official 髭男 dism
         links:
           youtube: https://www.youtube.com/watch?v=TQ8WlA2GXbk
       - title: Metropolis～メトロポリス～
@@ -539,7 +563,7 @@
         links:
           youtube: https://www.youtube.com/watch?v=Mj_NgkTmi_U
       - title: 宿命 (Shukumei)
-        artist: Official髭男dism
+        artist: Official 髭男 dism
         links:
           youtube: https://www.youtube.com/watch?v=-kgOFJG881I
       - title: シンデレラフィット
@@ -565,6 +589,7 @@
         artist: Kocsis, Ravel
         links:
           youtube: https://www.youtube.com/watch?v=Wkt8T38aaMw
+          classical: true
       - title: Super Mario 64 - Dire Dire Docks
         artist: 近藤浩治 (Koji Kondo)
         links:
@@ -607,7 +632,116 @@
         artist: Coldplay
         links:
           youtube: https://www.youtube.com/watch?v=dvgZkm1xWPE
-'2015': []
+'2015':
+  winter:
+    - 姥姥做的好吃的:
+      - title: La Campanella
+        artist: Liszt, Paganini
+        links:
+          youtube: https://www.youtube.com/watch?v=hEnfZjqMSy0
+          classical: true
+      - title: Scherzo No. 2 in B♭ minor
+        artist: Chopin
+        links:
+          youtube: https://www.youtube.com/watch?v=zfDce00KH4k
+          classical: true
+      - title: Fantaisie-Impromptu
+        artist: Chopin
+        links:
+          youtube: https://www.youtube.com/watch?v=tvm2ZsRv3C8
+          classical: true
+      - title: Sonata No. 8 - Pathetique, Mvt. 2
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=BuN3yCmHb_U
+          classical: true
+      - title: Alt-Wiener Tanzweisen, Liebesleid
+        artist: Kreisler
+        links:
+          youtube: https://www.youtube.com/watch?v=CKrGC5h0RA0
+          classical: true
+      - title: Praeludium und Allegro
+        artist: Kreisler
+        links:
+          youtube: https://www.youtube.com/watch?v=oeETRRsj1Ek
+          classical: true
+      - title: Csárdás
+        artist: Monti
+        links:
+          youtube: https://www.youtube.com/watch?v=HVach8BsJSM
+          classical: true
+  summer:
+    - import dvd:
+      - album: Symphony No. 7
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=-4788Tmz9Zo
+          classical: true
+      - album: Symphony No. 4 - Italian
+        artist: Mendelssohn
+        links:
+          youtube: https://www.youtube.com/watch?v=_HX_jF1_Tgc
+          classical: true
+      - album: Sonata No. 14 - Moonlight
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=OsOUcikyGRk
+          classical: true
+      - title: Requiem, Dies Irae
+        artist: Verdi
+        links:
+          youtube: https://www.youtube.com/watch?v=MeXR5blDTIk
+          classical: true
+      - album: Symphony No. 9 - Choral
+        artist: Beethoven
+        links:
+          spotify: https://open.spotify.com/album/2XF4GhKOvsWt1viozHlx8a?si=GvRpGJ4FQR-2DigF8idSpw&dl_branch=1
+          classical: true
+      - title: Sonata for Two Pianos, Allegro con spirito
+        artist: Mozart
+        links:
+          youtube: https://www.youtube.com/watch?v=9iePyP2HOr8
+          classical: true
+      - title: Die Zauberflöte, Der Hölle Rache
+        artist: Mozart
+        links:
+          youtube: https://www.youtube.com/watch?v=YuBeBjqKSGQ
+          classical: true
+      - title: Romeo and Juliet, Dance of the Knights
+        artist: Prokofiev
+        links:
+          youtube: https://www.youtube.com/watch?v=Z_hOR50u7ek
+          classical: true
+      - title: Till Eulenspiegels lustige Streiche
+        artist: Strauss
+        links:
+          spotify: https://open.spotify.com/track/1QvfZxj6PhBMhQMLdYgTuB?si=ac97474f3e9a4e79
+          classical: true
+      - album: Violin Concerto No. 1
+        artist: Mozart
+        links:
+          youtube: https://www.youtube.com/watch?v=ftfiFU_rDo4
+          classical: true
+      - title: American Patrol
+        artist: Meacham
+        links:
+          youtube: https://www.youtube.com/watch?v=UP0uQzZk-ug
+          classical: true
+      - album: L'Arlésienne
+        artist: Bizet
+        links:
+          youtube: https://www.youtube.com/watch?v=hBlNa9_RCNw
+          classical: true
+      - title: Gayane, Sabre Dance
+        artist: Khachaturian
+        links:
+          youtube: https://www.youtube.com/watch?v=mUQHGpxrz-8&list=PLRF7wzUlE19bidNQF1Xdhb37wiqhaQpnW&index=35
+          classical: true
+      - title: Le Carnaval des animaux, Aquarium
+        artist: Saint-Saëns
+        links:
+          youtube: https://www.youtube.com/watch?v=F6oOvA58Aps
+          classical: true
 '2014':
   winter:
     - just dancing with ephemeral friends:
