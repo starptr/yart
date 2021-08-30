@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# YART
+a collection of pieces of data, a.k.a. virtual trinkets
