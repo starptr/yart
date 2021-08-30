@@ -1,0 +1,224 @@
+---
+- image: 3c.png
+  shortcode: 3c
+  definition: うふふ; friendly chuckle
+- image: amogus.png
+  shortcode: amogus
+- image: asdfjkl.png
+  shortcode: asdfjkl
+  definition:
+    - stronger version of 😭
+    - NOOO
+    - crying from laughter
+- image: bedge.png
+  shortcode: bedge
+  definition: goodnight; sweet dreams
+- image: blissthink.png
+  shortcode: blissthink
+  definition: blissful
+- image: blobplead.png
+  shortcode: blobplead
+  definition: unironic uwu-like plead/admiration
+- image: blobsadcloud.png
+  shortcode: blobsadcloud
+  definition: stronger version of ":("
+- image: bonzi.png
+  shortcode: bonzi
+  definition: "synonym to :yeah:"
+- image: bro.png
+  shortcode: bro
+  definition: same as 🥺
+- image: bro_give_me_a_kiss.png
+  shortcode: bro_give_me_a_kiss
+  definition: pleeeeeeease?
+- image: bro_give_me_a_kiss_too.png
+  shortcode: bro_give_me_a_kiss_too
+  definition: "reply to :bro_give_me_a_kiss:"
+- image: bro_give_me_your_soul.png
+  shortcode: bro_give_me_your_soul
+- image: chickpea_lookin_headass.jpg
+  shortcode: chickpea_lookin_headass
+- image: circle.png
+  shortcode: circle
+  definition:
+    - deep-fried laughter
+    - when we do a little trolling
+- image: circle_circle.png
+  shortcode: circle_circle
+  definition: "circlejerk of :circle:"
+- image: circle_skull.png
+  shortcode:
+    - circle_skull
+    - srko
+  definition: stronger version of 💀
+- image: coolsad.png
+  shortcode: coolsad
+  definition: unfortunate outcome but "it's okay"
+- image: cowe.gif
+  shortcode: cowe
+- image: dog_drip.png
+  shortcode: dog_drip
+- image: eggdog2.jpg
+  shortcode: eggdog2
+  definition:
+    - synonym to 🧍‍♂️🧍‍♂️ or 🕴️
+    - bruh
+- image: emme.png
+  shortcode: emme
+- image: errors.png
+  shortcode: errors
+  definition:
+    - synonym to 💀 with some self-humiliation
+    - erroring
+- image: festpee.png
+  shortcode: festpee
+  definition: "antonym to :peefest:"
+- image: flush_sphere_fast.gif
+  shortcode: flush_sphere
+  definition: synonym to 😳
+- image: flush3d.png
+  shortcode: flush3d
+  definition:
+    - synonym to 😳
+    - oop
+- image: flushed-facebook.png
+  shortcode: flushed-fb
+  definition: mix of 😳 and 😐
+- image: FUCKING_SOBBING.png
+  shortcode: FUCKING_SOBBING
+  definition: NOOOOOOO
+- image: FUCKING_SOBBING_HARDER.gif
+  shortcode: FUCKING_SOBBING_HARDER
+  definition: "stronger version of :FUCKING_SOBBING:"
+- image: gigaCHAD.gif
+  shortcode: gigaCHAD
+  definition: enjoyer
+- image: grimace-samsung.png
+  shortcode: grimace-samsung
+  definition: ???
+- image: heavysob.png
+  shortcode: heavysob
+  definition: stronger version of 😭
+- image: help_me.png
+  shortcode: help_me
+  definition: "stronger version of :asdfjkl:"
+- image: hey-lol.png
+  shortcode: hey-lol
+  definition: Lin-Manuel Miranda meme unironically
+- image: hi.png
+  shortcode: hi
+  definition: creepy but tranquil hi
+- image: hold_it.gif
+  shortcode: hold_it
+  definition: objection
+- image: homebrew.png
+  shortcode: homebrew
+- image: hotdog_rave.gif
+  shortcode: hotdog_rave
+- image: HYPERLFG.gif
+  shortcode: HYPERLFG
+  definition: "stronger version of :LFG:"
+- image: infty_iq.jpg
+  shortcode: infinite_iq
+  definition: big brain
+- image: ironic.png
+  shortcode: square
+  definition:
+    - deep-fried laughter
+    - "synonym to :circle:"
+- image: jazz_music_stops.png
+  shortcode: jazz_music_stops
+  definition: record scratch effect
+- image: kirbeter.png
+  shortcode: kirbeter
+- image: kirblush.png
+  shortcode: kirblush
+  definition:
+    - my pleasure
+    - humbly yes
+- image: kirby_angy.png
+  shortcode: kirby_angy
+  definition: uwu angry
+- image: kirby_gun.png
+  shortcode: kirby_gun
+  definition: stop talking bro
+- image: kirby_pensive.png
+  shortcode: kirby_pensive
+  definition: synonym to 😔
+- image: le_fishe.gif
+  shortcode: le_fishe
+- image: LFG.png
+  shortcode: LFG
+  definition: LETS FUCKING GOOO
+- image: mike.png
+  shortcode: mike
+  definition: symbol of obsolete
+- image: miller_grove.png
+  shortcode: miller_grove
+- image: monke_good_job.png
+  shortcode: monke_good_job
+  definition: sarcastic "good job"
+- image: monky.png
+  shortcode: monky
+  definition: monky
+- image: no_thoughts_head_empty.png
+  shortcode:
+    - no-thoughts-head-empty
+    - nthe
+  definition: no thoughts head empty
+- image: obama.png
+  shortcode: obama
+  definition: self-honor
+- image: obama_but_not_obama.png
+  shortcode: obama_but_not_obama
+  definition: "synonym to :obama:"
+- image: ohyeahwooyeah.jpg
+  shortcode: ohyeahwooyeah
+  definition: oh yeah woo yeah
+- image: OMG.png
+  shortcode: OMG
+- image: oop.png
+  shortcode: oop
+  definition: oop
+- image: osuHOW.png
+  shortcode: osuHOW
+  definition: how,
+- image: owotthink.png
+  shortcode: owotthink
+- image: peefest.png
+  shortcode: peefest
+  definition:
+    - oh ok
+    - stronger version of 🥲
+- image: pepewot.png
+  shortcode: pepewot
+  definition: bruh what
+- image: peppa.png
+  shortcode:
+    - peppa
+    - peg
+  definition: hidden dread
+- image: pikachu.png
+  shortcode: pikachu
+  definition: reference to Trick'cord Treat
+- image: pikachu_mining.gif
+  shortcode: real_pikachu
+- image: pikachu2.png
+  shortcode: luigi
+  definition: reference to luigi the pokemon
+- image: poggaroo.png
+  shortcode: poggaroo
+  definition: "cursed synonym to :LFG:"
+- image: polish_cow.gif
+  shortcode: polish_cow
+- image: report.png
+  shortcode: report
+  definition: a violation or diss
+- image: ripped_sphere.png
+  shortcode: ripped_sphere
+  definition: deep-fried laughter
+- image: rooBlank.png
+  shortcode:
+    - rooBlank
+    - blank;roo
+  definition: "synonym to :no-thoughts-head-empty"
