@@ -7,6 +7,16 @@
         links:
           spotify: https://open.spotify.com/track/7tMaOTu32tb7G2Ieb9ULY8?si=0edef6d4e9824391
           classical: true
+      - title: Symphony No. 9 - Choral, Mvt. 1
+        artist: Beethoven
+        links:
+          spotify: https://open.spotify.com/track/3iXWmQ0BMIsnhDGG7yXzUr?si=5f0554a7e4134621
+          classical: true
+      - album: Symphony No. 3 - Eroica
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=fhHcty9OM-0
+          classical: true
   summer:
     - a long summer round 2:
       - title: Among Drip Song 2
@@ -626,6 +636,13 @@
           douyin: true
 '2017': []
 '2016':
+  summer:
+    - bye-bye piano:
+      - title: Prelude No. 2 in C# minor
+        artist: Rachmaninoff
+        links:
+          youtube: https://www.youtube.com/watch?v=SCm9O2KNEX4
+          classical: true
   spring:
     - can you believe we're almost in high school:
       - title: Viva La Vida
