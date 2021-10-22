@@ -1,6 +1,101 @@
 ---
 '2021':
   autumn:
+    - dancing at the taxi:
+      - title: STAY (with Justin Bieber)
+        artist: The Kid LAROI, Justin Bieber
+        links:
+          spotify: https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20?si=ceb542e987d34593
+      - title: Levitating
+        artist: Dua Lipa
+        links:
+          spotify: https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP?si=1212bab7cac04913
+      - title: California Gurls
+        artist: Katy Perry, Snoop Dogg
+        links:
+          spotify: https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi?si=b177c44c48934aba
+    - panic in the 126 lab:
+      - title: 頓珍漢の宴
+        artist: ピノキオピー
+        links:
+          youtube: https://www.youtube.com/watch?v=D6dwEFGL_KI
+      - title: Tank!
+        artist: Seatbelts
+        links:
+          youtube: https://www.youtube.com/watch?v=n2rVnRwW0h8
+      - title: 輝く針の小人族　～ Little Princess
+        artist: U2 Akiyama
+        links:
+          youtube: https://www.youtube.com/watch?v=cpCBT1xpYoM
+      - title: Until The Morning Comes
+        artist: softy, no one's perfect
+        links:
+          youtube: https://www.youtube.com/watch?v=9FOaBLbn7WM
+      - title: Distant Lands
+        artist: Kupla
+        links:
+          youtube: https://www.youtube.com/watch?v=nNEP2ge-xKg
+      - title: Wish You Were Mine
+        artist: Sarcastic Sounds
+        links:
+          youtube: https://www.youtube.com/watch?v=hClltK_TS4s
+      - title: Just Close Your Eyes
+        artist: brillion., Lucid Green
+        links:
+          youtube: https://www.youtube.com/watch?v=BePHcXIpy4E
+      - title: Snug
+        artist: softy
+        links:
+          youtube: https://www.youtube.com/watch?v=jmaA3gQWAAI
+      - title: It All
+        artist: Jhove
+        links:
+          youtube: https://www.youtube.com/watch?v=jzPFxQMkiE4
+      - title: Dots
+        artist: Blue Wednesday
+        links:
+          youtube: https://www.youtube.com/watch?v=gwRKOrmkPz8
+      - title: Black Cherry
+        artist: Purrple Cat
+        links:
+          youtube: https://www.youtube.com/watch?v=KdFWoR3FZB4
+      - title: Inside All Day
+        artist: softy, Hoogway
+        links:
+          youtube: https://www.youtube.com/watch?v=gXXoqLDIRLk
+      - title: Above Clouds
+        artist: Jhove
+        links:
+          youtube: https://www.youtube.com/watch?v=WXE8XmhV-k0
+      - title: Contrasts
+        artist: softy, Kaspa.
+        links:
+          youtube: https://www.youtube.com/watch?v=gR1wpWfW0Gg
+      - title: Auburn
+        artist: Laffey
+        links:
+          youtube: https://www.youtube.com/watch?v=S1aF6c58-gI
+    - foothill tunes:
+      - title: Dancing Queen
+        artist: ABBA
+        links:
+          spotify: https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr?si=3b351f5614b64937
+      - title: We Are Young (ft. Janelle Monáe)
+        artist: fun., Janelle Monáe
+        links:
+          spotify: https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD?si=90fd8dc3d0f241b5
+      - title: Freedom
+        artist: Wham!
+        links:
+          spotify: https://open.spotify.com/track/0PhU6i6Kei6x0CH3jocvA3?si=d0026b6920b7420c
+      - title: Funkytown
+        artist: Lipps Inc.
+        links:
+          spotify: https://open.spotify.com/track/37yIrMPeJYRm7zJ8rr3Uvv?si=40bae5fd5bf6499a
+      - title: Let's Groove
+        artist: Earth, Wind & Fire
+        links:
+          spotify: https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8?si=c00d0b136d4c4343
     - a japanese in berkeley:
       - title: An American in Paris
         artist: Gershwin
@@ -17,6 +112,82 @@
         links:
           youtube: https://www.youtube.com/watch?v=fhHcty9OM-0
           classical: true
+      - title: Remote Control
+        artist: Kanye West
+        links:
+          spotify: https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN?si=c12562304ef64f14
+          meme: true
+      - title: Bad Texter
+        artist: Ryan Woods
+        links:
+          spotify: https://open.spotify.com/track/1qf4LTrblgyq5gKli14LqM?si=a3b2049f1db24787
+      - title: New Light
+        artist: John Mayer
+        links:
+          spotify: https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV?si=49fcc1b91c71465c
+      - title: Electric Love
+        artist: BØRNS
+        links:
+          spotify: https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ?si=a4d09f2afeb44609
+      - title: Tongue Tied
+        artist: Grouplove
+        links:
+          spotify: https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N?si=75a56818aa6e461f
+      - title: Safe And Sound
+        artist: Capital Cities
+        links:
+          spotify: https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb?si=6cb66611c3f74665
+      - title: ロマンチシズム
+        artist: Mrs. GREEN APPLE
+        links:
+          spotify: https://open.spotify.com/track/0JcI7OdALbpSFkyKoufRYs?si=7e5c942e6a5a44c8
+      - title: good 4 u
+        artist: Olivia Rodrigo
+        links:
+          spotify: https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG?si=38f309945a4f46a7
+      - title: deja vu
+        artist: Olivia Rodrigo
+        links:
+          spotify: https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr?si=b35af6823c954d67
+      - title: Virtual Aerobics
+        artist: Wallows
+        links:
+          spotify: https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH?si=948ad66a29114db2
+      - title: Colors
+        artist: Stella jang
+        links:
+          spotify: https://open.spotify.com/track/1oACG26rFg4XwAkW5oGGUa?si=95002d5e32604d7e
+      - title: SLOW DANCING IN THE DARK
+        artist: Joji
+        links:
+          spotify: https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d?si=1b525da9e94d4a55
+      - title: Sofia
+        artist: Clairo
+        links:
+          spotify: https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM?si=f21f1116620c490d
+      - title: Heat Waves
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx?si=cd2387b65f324458
+      - title: DOLLA SIGN SLIME (ft. Megan Thee Stallion)
+        artist: Lil Nas X, Megan Thee Stallion
+        links:
+          spotify: https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio?si=8a8e171f165c45d5
+          tiktok: true
+      - title: INDUSTRY BABY (ft. Jack Harlow)
+        artist: Lil Nas X, Jack Harlow
+        links:
+          spotify: https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk?si=3d3245a0d474461a
+          tiktok: true
+      - title: My Universe
+        artist: Coldplay, BTW
+        links:
+          spotify: https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM?si=ffd112fec49c4e8e
+      - title: Eleanor Rigby
+        artist: Cody Fry
+        links:
+          spotify: https://open.spotify.com/track/62P3CMQAknHW4iftsBD41Y?si=7cfa3a416ddd4899
+          tiktok: true
   summer:
     - a long summer round 2:
       - title: Among Drip Song 2
@@ -689,6 +860,14 @@
           classical: true
   summer:
     - import dvd:
+      - title: vs. ~知覚と快楽の螺旋~
+        artist: 福山雅治
+        links:
+          spotify: https://open.spotify.com/track/23ZLIzxJotEObLldtiTJzZ?si=107f27caea314386
+      - title: vs.2013 ~知覚と快楽の螺旋~
+        artist: 福山雅治
+        links:
+          spotify: https://open.spotify.com/track/5lQBkoXivgiXqKicR2uaTh?si=a6bddce58fee4a05
       - album: Symphony No. 7
         artist: Beethoven
         links:
@@ -824,3 +1003,14 @@
         artist: Various
       - album: Masterpieces with Flair!, Book 2
         artist: Various
+'2011':
+  autumn:
+    - exploring the toshiba:
+      - title: Kalimba (Ninja Tuna)
+        artist: Mr. Scruff
+        links:
+          youtube: https://www.youtube.com/watch?v=tCO4i2t-Aso
+      - title: 恋のマイアヒ (Dragostea din tei)
+        artist: Unknown, O-Zone
+        links:
+          youtube: https://www.youtube.com/watch?v=SCyFMUyjXck
