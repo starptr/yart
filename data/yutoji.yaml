@@ -1,3 +1,7 @@
+# Each bullet has three fields: image, shortcode, and definition
+# image is the corresponding image filename in ./public/images/yutojis
+# shortcode is a string or array of strings
+# description is a string or array of strings but it's optional
 ---
 - image: 3c.png
   shortcode: 3c
@@ -34,7 +38,7 @@
 - image: bro_give_me_a_kiss_too.png
   shortcode: bro_give_me_a_kiss_too
   definition: "reply to :bro_give_me_a_kiss:"
-- image: bro_give_me_your_soul.png
+- image: bro_give_me_ur_soul.png
   shortcode: bro_give_me_your_soul
 - image: chickpea_lookin_headass.jpg
   shortcode: chickpea_lookin_headass
@@ -222,3 +226,198 @@
     - rooBlank
     - blank;roo
   definition: "synonym to :no-thoughts-head-empty"
+- image: rooDuckDrink.png
+  shortcode:
+    - rooDuckDrink
+    - duckDrink;roo
+  definition: "synonym to :rooPopcorn:"
+- image: rooEvil.png
+  shortcode:
+    - rooEvil
+    - evil;roo
+  definition: synonym to 😈
+- image: rooGift.png
+  shortcode:
+    - rooGift
+    - gift;roo
+  definition: here you go!
+- image: rooHmm.png
+  shortcode:
+    - rooHmm
+    - hmm;roo
+  definition: synonym to unironic 🤔
+- image: rooLove.png
+  shortcode:
+    - rooLove
+    - love;roo
+  definition:
+    - much thx
+    - awww
+- image: rooOhNo.png
+  shortcode:
+    - rooOhNo
+    - ohNo;roo
+  definition: oh no!
+- image: rooPopcorn.png
+  shortcode:
+    - rooPopcorn
+    - popcorn;roo
+  definition:
+    - watching drama unfold
+    - listening to tea spills
+- image: rooSad.png
+  shortcode:
+    - rooSad
+    - sad;roo
+  definition: synonym to unironic 😢
+- image: rooSmile.png
+  shortcode:
+    - rooSmile
+    - roo-peering-into-your-window-at-3am
+- image: rooSmiley.png
+  shortcode: rooSmiley
+  definition:
+    - "synonym to :smiley;tw:"
+    - "mix of :rooYay: and :smiley;tw:"
+- image: rooSussy.png
+  shortcode: rooSussy
+- image: rooYay.png
+  shortcode:
+    - rooYay
+    - yay;roo
+- image: sad_yeehaw.png
+  shortcode: sad_yeehaw
+  definition: synonym to 😔
+- image: sadge.png
+  shortcode: sadge
+  definition: stronger version of ":("
+- image: see.png
+  shortcode: see
+- image: sign_up.png
+  shortcode:
+    - sign_up
+    - yup
+  definition: synonym to an upvote
+- image: skull laugh.png
+  shortcode: skull_laugh_ios
+  definition:
+    - synonym to ironic 😂
+    - stronger version of 💀
+- image: skull_ios.png
+  shortcode: skull_ios
+  definition: im dead
+- image: smiley.png
+  shortcode:
+    - smiley
+    - smiley;tw
+  definition:
+    - synonym to 😀
+    - sarcastic "yay"
+    - genuine "yay"
+- image: smiley_3d-removebg-preview.png
+  shortcode: smiley_3d
+  definition: "synonym to :smiley;tw: with oop energy"
+- image: sol69.png
+  shortcode: sol69
+  definition:
+    - "synonym to :wotthink:"
+    - yeah, it's big brain time
+- image: sol70.png
+  shortcode: sol70
+  definition: "circlejerk of :sol69:"
+- image: sphere.png
+  shortcode:
+    - sphere
+    - laughballs
+  definition:
+    - stronger version of ironic 😂
+    - synonym to unironic 😂
+- image: sus.png
+  shortcode: sus
+- image: sussy.png
+  shortcode: sussy
+  definition: sus
+- image: sussy_amogus.gif
+  shortcode: sussy_amogus
+  definition: sus
+- image: sussy_gotem.gif
+  shortcode: sussy_gotem
+  definition: when someone falls for a ligma joke
+- image: thinkinglol.gif
+  shortcode: thinkinglol
+  definition: "stronger version of ironic :sphere:"
+- image: thwomp.png
+  shortcode: stonehedge
+  definition: "synonym to :kirby_angy"
+- image: trolling.gif
+  shortcode: trolling
+  definition: "ironic :sussy_gotem:"
+- image: walter.png
+  shortcode: walter
+- image: walter2.png
+  shortcode: walter2
+  definition: "circlejerk of :walter:"
+- image: walter3.png
+  shortcode: walter3
+  definition: "circlejerk of :walter:"
+- image: wearysmile.png
+  shortcode: wearysmile
+- image: weirddude.png
+  shortcode: weirddude
+  definition: disappointed bruh
+- image: well_hello_there_smexy_boy.png
+  shortcode: well_hello_there_smexy_boy
+- image: woo_baby_critical.gif
+  shortcode: woo_baby_critical
+- image: woozy-face-facebook.png
+  shortcode: woozy_face_fb
+- image: wotthink.png
+  shortcode: wotthink
+  definition: meme hmmmm
+- image: wuuper.png
+  shortcode: wuuper
+  definition: it be like that
+- image: xd.png
+  shortcode: xd
+  definition: genuine laugh
+- image: xok.png
+  shortcode: xok
+- image: yaw.png
+  shortcode: yaw
+  definition: "mix of :smiley;tw: and 😭"
+- image: yawn.png
+  shortcode: yawn
+- image: yeah.png
+  shortcode: yeah
+  definition:
+    - yeah; unironic content
+    - ironic content
+- image: 冋.png
+  shortcode: chinese-amogus-origin
+  definition: sus
+- image: c4leb.png
+  shortcode: c4leb
+  definition: sus
+- image: no_head.gif
+  shortcode: no_head
+- image: popular.png
+  shortcode: popular
+  definition: "synonym to :yeah:"
+- image: moldy-smiley.png
+  shortcode: moldy_smiley
+  definition: "synonym to :smiley;tw: with more 😀"
+- image: green.png
+  shortcode: green
+- image: imcrying.gif
+  shortcode: imcrying
+  definition: ironic 😭
+- image: astonished-wtf.png
+  shortcode: astonished wtf
+  definition: ironic 😲 and 🤯
+- image: popcat.gif
+  shortcode: popcat
+- image: drake.gif
+  shortcode: drake
+  definition: "synonym to :monke_good_job:"
+- image: pigeon.png
+  shortcode: pigeon
