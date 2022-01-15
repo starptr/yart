@@ -1,7 +1,194 @@
 ---
+# make sure to add comments to every (most) lists
 '2021':
+  winter:
+    - a well-deserved break: # first winter break after "actual" college, before new year
+      - title: 分かってないよ
+        artist: WurtS
+        links:
+          spotify: https://open.spotify.com/track/5wosJVYKzl3g7XElM98m23?si=6f06a2f34ced435c
+      - title: Talking Box
+        artist: WurtS
+        links:
+          spotify: https://open.spotify.com/track/7fru0rxutpi08K7Q112saF?si=95d3837f9e8d406b
+      - title: NERVEs
+        artist: WurtS
+        links:
+          spotify: https://open.spotify.com/track/1XuKf3rKjkmGo0B9lXByrQ?si=46cc4e1f840d4936
+      - title: リトルダンサー feat. Ito
+        artist: WurtS, PEOPLE 1
+        links:
+          spotify: https://open.spotify.com/track/2aKT3Rwcf0MKutWB9mcg5p?si=caf4276ffd6a4994
+      - title: Cool Kids
+        artist: Justus Bennetts
+        links:
+          spotify: https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5?si=bfa01b87a53443fd
+      - title: Better Days
+        artist: NEIKED, Mae Muller, Polo G
+        links:
+          spotify: https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH?si=1c4707b8632d4328
+      - title: Macchina
+        artist: Sungazer
+        links:
+          spotify: https://open.spotify.com/track/3L9nrJY59i6DWM6ZAuLF97?si=32c7d5688e08446b
+      - title: Drunk
+        artist: Sungazer
+        links:
+          spotify: https://open.spotify.com/track/3L9nrJY59i6DWM6ZAuLF97?si=4874bce6bf6645db
+      - title: Santé
+        artist: Stromae
+        links:
+          youtube: https://www.youtube.com/watch?v=P3QS83ubhHE
+      - title: everything sucks
+        artist: vaultboy
+        links:
+          spotify: https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK?si=291454b24dea416c
+      - title: Sunroof
+        artist: Nicky Youre, dazy
+        links:
+          spotify: https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt?si=207f54fd71b04e1a
+      - title: Threshold
+        artist: Sungazer
+        links:
+          spotify: https://open.spotify.com/track/5JuoOF3ThukFMsuY2farqm?si=e34910524d124cbe
+      - title: Dirty
+        artist: grandson
+        links:
+          spotify: https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY?si=0c8bd92793bd41eb
+      - title: Infinity
+        artist: Jaymes Young
+        links:
+          spotify: https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK?si=427c0227fccc4499
+      - title: Demons
+        artist: Imagine Dragons
+        links:
+          spotify: https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a?si=a7813b2d49d24fcc
+          tiktok: true
+          meme: true
+      - title: The Other Side of Paradise
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ?si=2165f7b051b540c7
+      - title: Married in a Gold Rush (feat. Danielle Haim)
+        artist: Vampire Weekend, Danielle Haim
+        links:
+          spotify: https://open.spotify.com/track/4Ww4jdVXTyvSnryNTtReRJ?si=fc4eaedf64164bff
+      - title: Youth
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY?si=669d0c78bb5e40a7
+      - title: THATS WHAT I WANT
+        artist: Lil Nas X
+        links:
+          spotify: https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO?si=2f38cd480f8a4032
+      - title: edamame (feat. Rich Brian)
+        artist: bbno$, Rich Brian
+        links:
+          spotify: https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV?si=abf88884b5f046d9
+          tiktok: true
+      - title: "#BrooklynBloodPop!"
+        artist: SyKo
+        links:
+          spotify: https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu?si=e627d423fc494357
+          tiktok: true
+          meme: true
+      - title: Troublemaker (feat. Flo Rida)
+        artist: Olly Murs, Flo Rida
+        links:
+          spotify: https://open.spotify.com/track/4jOtC832PyIXlCVPRElfQu?si=b5d4bc4b43e74dba
+      - title: ...And to Those I Love, Thanks for Sticking Around
+        artist: $uicideboy$
+        links:
+          spotify: https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm?si=15b653416ffa4011
+      - title: Sunflower
+        artist: Rex Orange County
+        links:
+          spotify: https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ?si=1792a186eca645c0
+    - "efficient processes and random algorithms: the final": # cramming for cs170 and eecs126
+      - title: Far Away
+        artist: Nothingtosay, Zeyn
+        links:
+          youtube: https://www.youtube.com/watch?v=LR8t1vk6TZ0
+      - title: Cope
+        artist: Kurt Stewart, Lomme
+        links:
+          youtube: https://www.youtube.com/watch?v=e5dWjyyw2Kw
+      - title: Persist
+        artist: less.people
+        links:
+          youtube: https://www.youtube.com/watch?v=_wkSN9DCMYM
+      - title: The Ridge
+        artist: Allem Iversom
+        links:
+          youtube: https://www.youtube.com/watch?v=kL4xRgB9jSM
+      - title: Snowflakes
+        artist: Pandrezz
+        links:
+          youtube: https://www.youtube.com/watch?v=jtwPOFi9iiE
+      - title: Forget me
+        artist: less.people
+        links:
+          youtube: https://www.youtube.com/watch?v=hGrFHkf9fGY
+      - title: Isolated
+        artist: amies
+        links:
+          youtube: https://www.youtube.com/watch?v=QAHFwI8pIpM
+      - title: Snooze
+        artist: Aylior, Sebastian Kamae
+        links:
+          youtube: https://www.youtube.com/watch?v=EyBDHKXk0ZA
+      - title: February
+        artist: Jay-Lounge
+        links:
+          youtube: https://www.youtube.com/watch?v=jqAFKHQmmAw
+      - title: Crimson
+        artist: G Mills
+        links:
+          youtube: https://www.youtube.com/watch?v=65Qc86ODacY
+    - what the hell just happened: # meme moments
+      - title: Slipping Through My Fingers
+        artist: ally, ABBA
+        links:
+          youtube: https://www.youtube.com/watch?v=Vzyl1m2YJ6M
+          soundcloud: https://soundcloud.com/ally-232118998/slipping-through-my-fingers
+          tiktok: true
+      - title: Let Me Hit It
+        artist: Sporty-O
+        links:
+          youtube: https://www.youtube.com/watch?v=VrWeEvlZ52M
+          tiktok: true
+      - title: 夜に駆ける
+        artist: YOASOBI
+        links:
+          youtube: https://www.youtube.com/watch?v=x8VYWazR5mE
+          tiktok: true
+      - title: positions
+        artist: Ariana Grande
+        links:
+          spotify: https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0?si=861bf81e08f3446b
+          tiktok: true
+      - title: abcdefu
+        artist: GAYLE
+        links:
+          spotify: https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL?si=c119312bdfdc4c35
+          tiktok: true
+      - title: MONEY
+        artist: LISA
+        links:
+          spotify: https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q?si=442ad80145f14d66
+          tiktok: true
+      - title: I Love You So
+        artist: The Walters
+        links:
+          spotify: https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk?si=2ea8adcc30f84fe8
+          tiktok: true
+      - title: Do It To It
+        artist: ACRAZE, Cherish
+        links:
+          spotify: https://open.spotify.com/track/20on25jryn53hWghthWWW3?si=6ecafa608f574226
+          tiktok: true
   autumn:
-    - dancing at the taxi:
+    - dancing at the taxi: # Taxi as in the Theta Xi fraternity
       - title: STAY (with Justin Bieber)
         artist: The Kid LAROI, Justin Bieber
         links:
@@ -14,7 +201,11 @@
         artist: Katy Perry, Snoop Dogg
         links:
           spotify: https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi?si=b177c44c48934aba
-    - panic in the 126 lab:
+      - title: Somebody To You
+        artist: The Vamps
+        links:
+          spotify: https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65?si=5023f4bb7df141fb
+    - panic in the 126 lab: # eecs126 labs were a pain
       - title: 頓珍漢の宴
         artist: ピノキオピー
         links:
@@ -75,7 +266,7 @@
         artist: Laffey
         links:
           youtube: https://www.youtube.com/watch?v=S1aF6c58-gI
-    - foothill tunes:
+    - foothill tunes: # foothill dining hall plays some tunes
       - title: Dancing Queen
         artist: ABBA
         links:
@@ -316,7 +507,7 @@
           youtube: https://www.youtube.com/playlist?list=PLBKadB95sF45_hO-yB_W3yvgDepkKE0C1
 '2020':
   winter:
-    - dark noon:
+    - dark noon: # california wildfires covered the sun & san francisco skyline
       - title: Ease Out
         artist: softy
         links:
@@ -358,7 +549,7 @@
           youtube: https://www.youtube.com/watch?v=XF8xFUCSXWA
           meme: true
   summer:
-    - zooming badly:
+    - zooming badly: # taking the first berk course, ethstd 10ac
       - album: Djesse Vol. 3
         artist: Jacob Collier
         links:
@@ -425,7 +616,7 @@
         artist: 秋山黄色 (Kiro Akiyama)
         links:
           spotify: https://open.spotify.com/track/6aRZWMSePVPZIVX95WN0uI?si=a10fab85f2734f6c
-    - a long summer:
+    - a long summer: # school "ended" early bc of covid-19
       - title: Spring Day (Japanese ver.)
         artist: BTS
         links:
@@ -494,7 +685,7 @@
         artist: Naoto Inti Raymi
         links:
           spotify: https://open.spotify.com/track/25eQea2tq7ELnlcdCEqkJA?si=cb646aa044cf4a42
-    - late night discord vc minecraft sesh:
+    - late night discord vc minecraft sesh: # west-3 and the others
       - title: bad guy
         artist: Billie Eilish
         links:
@@ -604,12 +795,12 @@
         links:
           youtube: https://www.youtube.com/watch?v=HylC6f8FLtY
   spring:
-    - music board:
+    - music board: # the band class project
       - title: 神さま達
         artist: 久石 譲 (Joe Hisaishi)
         links:
           spotify: https://open.spotify.com/track/3A08CelXmym3C9KpaG0ct4?si=ce0317f1283945bd
-    - let's trade music:
+    - let's trade music: # swap spotify profiles
       - title: September
         artist: Earth, Wind & Fire
         links:
@@ -651,8 +842,14 @@
         links:
           youtube: https://www.youtube.com/watch?v=zua831utwMM
 '2019':
+  winter:
+    - essays that will change my life: # filling out college apps
+      - title: Piano Concerto No. 3 - Gift of Dreams
+        artist: Rautavaara
+        links:
+          youtube: https://www.youtube.com/watch?v=BunczhLlJAo
   summer:
-    - i'm mr. worldwide:
+    - i'm mr. worldwide: # using douyin, again
       - title: We No Speak Americano
         artist: Yolanda Be Cool, DCup
         links:
@@ -678,7 +875,7 @@
         links:
           spotify: https://open.spotify.com/track/3S2XkZJH5P3AqYk8ChYsWB?si=a5f1b1182d5a4d5e
           douyin: true
-    - 2am study sesh with ac in the hot northeast summer:
+    - 2am study sesh with ac in the hot northeast summer: # camping out in the science center, annenberg hall, and holworthy hall
       - title: What is Love? (Japanese ver.)
         artist: TWICE
         links:
@@ -765,7 +962,7 @@
           youtube: https://www.youtube.com/watch?v=XWo627F7CeU
 '2018':
   summer:
-    - meet the city of fog:
+    - meet the city of fog: # welcome to Daly City
       - album: Le Tombeau de Couperin (Arr. Kocsis)
         artist: Kocsis, Ravel
         links:
@@ -779,7 +976,7 @@
         artist: 近藤浩治 (Koji Kondo)
         links:
           youtube: https://www.youtube.com/watch?v=72hshWLPQGM
-    - a last midwest summer:
+    - a last midwest summer: # jogging in West Lafayette
       - title: I Knew You Were Trouble.
         artist: Taylor Swift
         links:
@@ -805,24 +1002,30 @@
         links:
           spotify: https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh?si=92a7fe519f454b4e
           douyin: true
-'2017': []
+'2017':
+  - eating lunch with da boys:
+    - title: HEYYEYAAEYAAAEYAEYAA
+      artist: HEYYEYAAEYAAAEYAEYAA
+      links:
+        youtube: https://www.youtube.com/watch?v=ZZ5LpwO-An4
+        meme: true
 '2016':
   summer:
-    - bye-bye piano:
+    - bye-bye piano: # last few piano lessons
       - title: Prelude No. 2 in C# minor
         artist: Rachmaninoff
         links:
           youtube: https://www.youtube.com/watch?v=SCm9O2KNEX4
           classical: true
   spring:
-    - can you believe we're almost in high school:
+    - can you believe we're almost in high school: # lip sync contest lmfao
       - title: Viva La Vida
         artist: Coldplay
         links:
           youtube: https://www.youtube.com/watch?v=dvgZkm1xWPE
 '2015':
   winter:
-    - 姥姥做的好吃的:
+    - 姥姥做的好吃的: # visit 姥姥 at friendship house
       - title: La Campanella
         artist: Liszt, Paganini
         links:
@@ -859,7 +1062,11 @@
           youtube: https://www.youtube.com/watch?v=HVach8BsJSM
           classical: true
   summer:
-    - import dvd:
+    - import dvd: # 素敵な選TAXI, ガリレオ, のだめカンタービレ
+      - title: 選TAXI Opening
+        artist: 本間勇輔
+        links:
+          youtube: https://www.youtube.com/watch?v=0kU6wFQsMb4
       - title: vs. ~知覚と快楽の螺旋~
         artist: 福山雅治
         links:
@@ -940,7 +1147,7 @@
           classical: true
 '2014':
   winter:
-    - just dancing with ephemeral friends:
+    - just dancing with ephemeral friends: # 6th grade winter family-friends gathering
       - title: Y.M.C.A
         artist: Village People
         links:
@@ -977,7 +1184,10 @@
         links:
           youtube: https://www.youtube.com/watch?v=izGwDsrQ1eQ
   summer:
-    - sleeping on the first floor with ac on in the first midwest summer:
+    - Cornfield State Fair Young Hoosier State Piano Competition (YHSP):
+      - title: Sonatina in F major, Op. 34 No. 4, arr. for 4 hands - Con spirito, Mvt. 1
+        artist: Clementi
+    - sleeping on the first floor with ac on in the first midwest summer: # peppermill
       - title: Butterfly Core
         artist: VALSHE
         links:
@@ -987,7 +1197,7 @@
         links:
           spotify: https://open.spotify.com/track/3kT01HAng8yrK9WQ2bZG7q?si=2a9452a2f7194d5a
   spring:
-    - core memory:
+    - core memory: # just dance at auntie & uncle's
       - title: Call Me Maybe
         artist: Carly Rae Jepsen
         links:
@@ -1005,7 +1215,15 @@
         artist: Various
 '2011':
   autumn:
-    - exploring the toshiba:
+    - exploring the toshiba: # messing around with the laptop computer
+      - title: Ballade pour Adeline # I played this
+        artist: Richard Clayderman, Paul de Senneville
+        links:
+          youtube: https://www.youtube.com/watch?v=gfsgXJQ0ebU
+      - title: Rhapsody in Blue
+        artist: Richard Clayderman, George Gershwin
+        links:
+          youtube: https://www.youtube.com/watch?v=8wMoiyEM6Ls
       - title: Kalimba (Ninja Tuna)
         artist: Mr. Scruff
         links:
