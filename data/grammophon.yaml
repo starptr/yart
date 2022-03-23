@@ -1,5 +1,13 @@
 ---
 # make sure to add comments to every (most) lists
+'2022':
+  spring:
+    - nice symphony u got there:
+      - title: La Valse - Mouvement de Valse viennoise - Un peu plus modéré - Premier mouvement - Assez animé
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/6dAS2i3A0pTv4KNZ2JLTQw?si=a2f153723ed64e7c
+          classical: true
 '2021':
   winter:
     - a well-deserved break: # first winter break after "actual" college, before new year
@@ -100,6 +108,7 @@
         artist: $uicideboy$
         links:
           spotify: https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm?si=15b653416ffa4011
+          tiktok: true
       - title: Sunflower
         artist: Rex Orange County
         links:
@@ -381,10 +390,20 @@
           tiktok: true
   summer:
     - a long summer round 2:
+      - title: Prince Igor, Polovtsian Dances
+        artist: Borodin
+        links:
+          spotify: https://open.spotify.com/track/0qW7Z4MN8QnTtgDGZUj6nB?si=47862af9017e4569
+          classical: true
       - title: Among Drip Song 2
         artist: Leonz
         links:
           youtube: https://www.youtube.com/watch?v=EJ_T_lno9TI
+      - album: Symphony No. 9 - From the New World
+        artist: Dvořák
+        links:
+          youtube: https://www.youtube.com/watch?v=jOofzffyDSA
+          classical: true
       - title: Heat Waves
         artist: Glass Animals
         links:
@@ -417,6 +436,11 @@
         links:
           spotify: https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd?si=e89ded6ada824d3d
           tiktok: true
+      - album: Overture, Scherzo, and Finale
+        artist: Schumann
+        links:
+          youtube: https://www.youtube.com/watch?v=79feDtl96Wg
+          classical: true
   spring:
     - sussy baka imposter amogus 🤪🥵🤤😩🥶🤩:
       - title: Astronaut In The Ocean
@@ -505,6 +529,11 @@
         artist: Ludwig Göransson
         links:
           youtube: https://www.youtube.com/playlist?list=PLBKadB95sF45_hO-yB_W3yvgDepkKE0C1
+      - album: The Snow Maiden Suite
+        artist: Rimsky-Korsakov
+        links:
+          youtube: https://www.youtube.com/watch?v=BNQpbtpaOz4
+          classical: true
 '2020':
   winter:
     - dark noon: # california wildfires covered the sun & san francisco skyline
@@ -526,6 +555,21 @@
           youtube: https://www.youtube.com/watch?v=0ra3NM2MJj4
           meme: true
           tiktok: true
+      - album: Serenade for Strings in C major
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=MICksKeZoJU
+          classical: true
+      - album: Romanian Folk Dances
+        artist: Bartók
+        links:
+          youtube: https://www.youtube.com/watch?v=Z50Ooqv1GFg
+          classical: true
+      - title: Roman Carnival Overture
+        artist: Berlioz
+        links:
+          spotify: https://open.spotify.com/track/0mtIYUM4KA2koMOKWmIxFg?si=40387749b3804343
+          classical: true
     - "who turned off the sun >:(":
       - title: Jazz Circulation
         artist: Nugnug, 物語シリーズ
@@ -554,6 +598,11 @@
         artist: Jacob Collier
         links:
           youtube: https://www.youtube.com/playlist?list=PLHX_dBxnc8z_RR3ITpYS5AB5TQkGM67BP
+      - title: Béatrice et Bénédict
+        artist: Berlioz
+        links:
+          spotify: https://open.spotify.com/track/6YvSfNcFXhQ2qtWHhX3TUf?si=0ee1c52bb281467f
+          classical: true
       - title: Light My Fire
         artist: "(G)I-DLE"
         links:
@@ -617,6 +666,16 @@
         links:
           spotify: https://open.spotify.com/track/6aRZWMSePVPZIVX95WN0uI?si=a10fab85f2734f6c
     - a long summer: # school "ended" early bc of covid-19
+      - title: Overture Prince Igor
+        artist: Borodin
+        links:
+          spotify: https://open.spotify.com/track/2f6Go7PF97XqfsK1qAtX7a?si=6d7f54097aa24f99
+          classical: true
+      - album: Concerto grosso No. 1
+        artist: Bloch
+        links:
+          youtube: https://www.youtube.com/watch?v=myTFlb9cfCw
+          classical: true
       - title: Spring Day (Japanese ver.)
         artist: BTS
         links:
@@ -686,6 +745,11 @@
         links:
           spotify: https://open.spotify.com/track/25eQea2tq7ELnlcdCEqkJA?si=cb646aa044cf4a42
     - late night discord vc minecraft sesh: # west-3 and the others
+      - album: Symphonie fantastique
+        artist: Berlioz
+        links:
+          youtube: https://www.youtube.com/watch?v=5HgqPpjIH5c
+          classical: true
       - title: bad guy
         artist: Billie Eilish
         links:
@@ -800,6 +864,51 @@
         artist: 久石 譲 (Joe Hisaishi)
         links:
           spotify: https://open.spotify.com/track/3A08CelXmym3C9KpaG0ct4?si=ce0317f1283945bd
+      - title: Danzón No. 2
+        artist: Márquez
+        links:
+          spotify: https://open.spotify.com/track/4vZSmPvl1o2UCgvJqMaAaW?si=a47d2177908d4dc2
+          classical: true
+      - title: The Typewriter # wrong time?
+        artist: Anderson
+        links:
+          spotify: https://open.spotify.com/track/4VVU7vZh4GAq6Hcc1zxqJy?si=57e232c62e0a44a1
+          classical: true
+      - album: Rhapsody on a Theme of Paganini # wrong time?
+        artist: Rachmaninoff
+        links:
+          youtube: https://www.youtube.com/watch?v=ppJ5uITLECE
+          classical: true
+      - title: Pavane pour une infante défunte
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/1VbhI8C55rEVj5W9tohLcJ?si=fb414e036f7e433d
+          classical: true
+      - title: Prelude To The Afternoon Of A Faun
+        artist: Debussy
+        links:
+          spotify: https://open.spotify.com/track/3xGPS59RhE5dNB3yPcMeL6?si=914646b17ed842c7
+          classical: true
+      - album: Piano Concerto in A Minor # wrong time?
+        artist: Grieg
+        links:
+          youtube: https://www.youtube.com/watch?v=I1Yoyz6_Los
+          classical: true
+      - album: Symphony No. 1 # wrong time?
+        artist: Bernstein
+        links:
+          youtube: https://www.youtube.com/watch?v=uic4qcyDmDQ
+          classical: true
+      - title: El salon Mexico # wrong time?
+        artist: Bernstein
+        links:
+          spotify: https://open.spotify.com/track/3jB0VsZpeqgwstIR63sBBe?si=33490df184f74bdb
+          classical: true
+      - album: Scheherazade # wrong time?
+        artist: Rimsky-Korsakov
+        links:
+          youtube: https://www.youtube.com/watch?v=SQNymNaTr-Y
+          classical: true
     - let's trade music: # swap spotify profiles
       - title: September
         artist: Earth, Wind & Fire
@@ -844,11 +953,68 @@
 '2019':
   winter:
     - essays that will change my life: # filling out college apps
-      - title: Piano Concerto No. 3 - Gift of Dreams
+      - album: Piano Concerto No. 3 - Gift of Dreams
         artist: Rautavaara
         links:
           youtube: https://www.youtube.com/watch?v=BunczhLlJAo
+          classical: true
+      - album: Piano Concerto in G Major
+        artist: Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=cJOW5mlhH_Y
+          classical: true
+      - title: Anthem-Part 2
+        artist: Glass
+        links:
+          spotify: https://open.spotify.com/track/7A6BNg4vfCa8Ll6X64iHSb?si=503fd84a4fd64a1f
+    - math circles and cs programs: # driving to southbay
+      - album: La mer
+        artist: Debussy
+        links:
+          youtube: https://www.youtube.com/watch?v=FOCucJw7iT8
+          classical: true
+      - title: Alborada del gracioso - Assez vif - Plus lent - Au movement
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/072kJqmswax8VmfmgejEIY?si=1fc2c91c3d864d60
+          classical: true
+      - album: The Firebird Suite
+        artist: Stravinsky
+        links:
+          youtube: https://www.youtube.com/watch?v=RZkIAVGlfWk
+          classical: true
+      - album: Pictures At An Exhibition
+        artist: Mussorgsky
+        links:
+          youtube: https://www.youtube.com/watch?v=Sq7Qd9PSmR0
+          classical: true
+      - album: Lyrische Suite
+        artist: Berg
+        links:
+          youtube: https://www.youtube.com/watch?v=GKAVN5ZUdbw
+          classical: true
+      - album: String Quartet, M. 35
+        artist: Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=ieRQyyPowH0
+          classical: true
   summer:
+    - summer symphony:
+      - title: Cello Concerto No. 1 in A minor
+        artist: Saint-Saëns
+        links:
+          spotify: https://open.spotify.com/track/0Sbp1lMRZEBgPYv2loprBH?si=9da4117b9ce0411f
+          classical: true
+      - album: Symphony in C major
+        artist: Bizet
+        links:
+          youtube: https://www.youtube.com/watch?v=-xk7TVPyboY
+          classical: true
+      - album: Suite in D major
+        artist: Saint-Saëns
+        links:
+          youtube: https://www.youtube.com/watch?v=v9paWJgMId0
+          classical: true
     - i'm mr. worldwide: # using douyin, again
       - title: We No Speak Americano
         artist: Yolanda Be Cool, DCup
@@ -961,6 +1127,18 @@
         links:
           youtube: https://www.youtube.com/watch?v=XWo627F7CeU
 '2018':
+  winter:
+    - first live sfsymphony:
+      - album: Symphony No. 2
+        artist: Borodin
+        links:
+          youtube: https://www.youtube.com/watch?v=4CCe4_SPgLc
+          classical: true
+      - album: The Miraculous Mandarin
+        artist: Bartók
+        links:
+          youtube: https://www.youtube.com/watch?v=uGuE20hKaDw
+          classical: true
   summer:
     - meet the city of fog: # welcome to Daly City
       - album: Le Tombeau de Couperin (Arr. Kocsis)
@@ -976,7 +1154,28 @@
         artist: 近藤浩治 (Koji Kondo)
         links:
           youtube: https://www.youtube.com/watch?v=72hshWLPQGM
+      - album: Appalachian Spring
+        artist: Copland
+        links:
+          youtube: https://www.youtube.com/watch?v=8e3rVcSy3IQ
+          classical: true
+      - title: Introduction et Allegro
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/2n4otZ8p3EQC2j77i3TWOa?si=349dfb6fc7a44851
+          classical: true
+      - album: Le Carnaval des Animaux
+        artist: Saint-Saëns
+        links:
+          youtube: https://www.youtube.com/watch?v=7SjagpXeNhM
+          classical: true
     - a last midwest summer: # jogging in West Lafayette
+      - title: Slava! - A Political Overture
+        artist: Bernstein
+        links:
+          youtube: https://www.youtube.com/watch?v=c6GyiGMM9pE
+          spotify: https://open.spotify.com/track/3UCuaAOarddxqWyvrMEFTH?si=ff08e87cc32d483d
+          classical: true
       - title: I Knew You Were Trouble.
         artist: Taylor Swift
         links:
@@ -1002,20 +1201,162 @@
         links:
           spotify: https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh?si=92a7fe519f454b4e
           douyin: true
+      - title: The Planets - Jupiter # played excerpt at graduation
+        artist: Holst
+        links:
+          spotify: https://open.spotify.com/track/59Id4KrBWiizuq53doxWtp?si=b2113b26e5b14333
+          classical: true
+      - title: Bacchanale # school symph issma
+        artist: Saint-Saëns
+        links:
+          spotify: https://open.spotify.com/track/1vgInU9qUZYSW0VT9TJuT6?si=fd0d05a45ede4554
+          classical: true
+      - title: Holberg Suite, Mvmt. 1
+        artist: Grieg
+        links:
+          spotify: https://open.spotify.com/track/1KQs44aIEmFdutatasTpMr?si=b09999fe10544a79
+          classical: true
+    - i'm so glad i did WVYS: # last concert
+      - title: Symphony No. 8
+        artist: Dvořák
+        links:
+          youtube: https://www.youtube.com/watch?v=QXAv-NGppFw
+          classical: true
+      - album: Cello Concerto No. 1
+        artist: Shostakovich
+        links:
+          youtube: https://www.youtube.com/watch?v=i6rU9AYzCws
+          classical: true
+  spring:
+    - ocmc 3: # the last time i did this lmao
+      - album: Symphony No. 5
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=a_B02BZp-5Y
+          classical: true
+      - album: Octet
+        artist: Mendelssohn
+        links:
+          youtube: https://www.youtube.com/watch?v=KrITNrgQHuE
+          classical: true
+      - title: Danse macabre
+        artist: Saint-Saëns
+        links:
+          spotify: https://open.spotify.com/track/3e0dy2rIp2OMa6NuYk0j8x?si=f639863c5d814355
+          classical: true
+      - title: The Sorcerer's Apprentice
+        artist: Dukas
+        links:
+          spotify: https://open.spotify.com/track/2GKGGciyHJr7tjihYb3at1?si=5851911bc45b4126
+          classical: true
+    - what an unorthodox program: # WVYS plays interesting works
+      - album: Lincoln Portrait
+        artist: Copland
+        links:
+          spotify: https://open.spotify.com/track/1ejPv1iejXrwzPoBQcwYt2?si=4cde949d0ee24502
+          classical: true
+      - album: Sea Pictures
+        artist: Elgar
+        links:
+          youtube: https://www.youtube.com/watch?v=GauIMo8Manc
+          classical: true
+      - album: Spring Festival Overture
+        artist: Li
+        links:
+          spotify: https://open.spotify.com/track/4x8IaSAWUGKaCHki1T188r?si=32ddc3c605fa483b
+          classical: true
 '2017':
-  - eating lunch with da boys:
-    - title: HEYYEYAAEYAAAEYAEYAA
-      artist: HEYYEYAAEYAAAEYAEYAA
-      links:
-        youtube: https://www.youtube.com/watch?v=ZZ5LpwO-An4
-        meme: true
+  autumn:
+    - taiga's first symphony:
+      - album: Symphony No. 5
+        artist: Mendelssohn
+        links:
+          youtube: https://www.youtube.com/watch?v=otcrnrQAwD8
+          classical: true
+      - album: Ma mère l'Oye suite
+        artist: Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=5U7osEigQZM
+          classical: true
+      - title: Tzigane
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/1PGcZoc8r1mj4FZ066xpDP?si=64c887d6b6ec446a
+          classical: true
+  spring:
+    - the third conductor: # when WVYS had 3 conductors
+      - title: Overture to Candide
+        artist: Bernstein
+        links:
+          youtube: https://www.youtube.com/watch?v=zn5bhJ5YX6U
+          spotify: https://open.spotify.com/track/6yul9NbwH5cK7T0Pu6Twtu?si=da62c74161e84d35
+          classical: true
+      - title: Academic Festival Overture
+        artist: Brahms
+        links:
+          spotify: https://open.spotify.com/track/4NhNYjpTTxJcrDggAqjuFY?si=cdbb6526b90c4765
+          classical: true
+      - album: El sombrero de tres picos
+        artist: de Falla
+        links:
+          youtube: https://www.youtube.com/watch?v=p387mKF-Uws
+          classical: true
+    - ocmc 2:
+      - album: Petite suite
+        artist: Debussy
+        links:
+          youtube: https://www.youtube.com/watch?v=JSO8Z6YmZtY
+          classical: true
+      - title: Symphony No. 40
+        artist: Mozart
+        links:
+          spotify: https://open.spotify.com/track/3lQRsOCX2YCVSOK69Sw7Ct?si=e261dc450c174b85
+          classical: true
+      - album: Violin Concerto in D Minor
+        artist: Sibelius
+        links:
+          youtube: https://www.youtube.com/watch?v=J0w0t4Qn6LY
+          classical: true
+      - album: Petrushka
+        artist: Stravinsky
+        links:
+          youtube: https://www.youtube.com/watch?v=esD90diWZds
+          classical: true
+      - album: The Rite of Spring
+        artist: Stravinsky
+        links:
+          youtube: https://www.youtube.com/watch?v=EkwqPJZe8ms
+          classical: true
+    - the second conductor: # when WVYS had 3 conductors
+      - title: Billy the Kid, Ballet Suite
+        artist: Copland
+        links:
+          youtube: https://www.youtube.com/watch?v=wdhE0R4qGX0
+          classical: true
+      - album: Capriccio Espagnol
+        artist: Rimsky-Korsakov
+        links:
+          youtube: https://www.youtube.com/watch?v=X_HSpn3tE_A
+          classical: true
 '2016':
+  autumn:
+    - eating lunch with da boys:
+      - title: HEYYEYAAEYAAAEYAEYAA
+        artist: HEYYEYAAEYAAAEYAEYAA
+        links:
+          youtube: https://www.youtube.com/watch?v=ZZ5LpwO-An4
+          meme: true
   summer:
     - bye-bye piano: # last few piano lessons
       - title: Prelude No. 2 in C# minor
         artist: Rachmaninoff
         links:
           youtube: https://www.youtube.com/watch?v=SCm9O2KNEX4
+          classical: true
+      - title: Capriccio italien
+        artist: Tchaikovsky
+        links:
+          spotify: https://open.spotify.com/track/5HepI6E5fM3MAYJNSCwphN?si=6b2c6101066f43a0
           classical: true
   spring:
     - can you believe we're almost in high school: # lip sync contest lmfao
@@ -1061,7 +1402,32 @@
         links:
           youtube: https://www.youtube.com/watch?v=HVach8BsJSM
           classical: true
+      - title: Humoresque No. 7, Poco lente e grazioso
+        artist: Morawetz, Dvořák
+        links:
+          spotify: https://open.spotify.com/track/78w7y8EDtL5LFaZ80rOkRl?si=96380e3711ef47e9
+          classical: true
+      - album: Symphonie Espagnole
+        artist: Lalo
+        links:
+          youtube: https://www.youtube.com/watch?v=lEeaFZkpLH4
+          classical: true
+      - title: Zigeunerweisen
+        artist: Sarasate
+        links:
+          spotify: https://open.spotify.com/track/2st9kwCck5g6hjUwwRGQCE?si=3025e53d51d54100
+          classical: true
+      - title: Marche slave
+        artist: Tchaikovsky
+        links:
+          spotify: https://open.spotify.com/track/4nme70lTDNLI3mdpKrnrO0?si=ccfad7c851d449d1
+          classical: true
   summer:
+    - summer band:
+      - title: Bayou Breakdown
+        artist: Karrick
+        links:
+          spotify: https://open.spotify.com/track/2ih2MMQYC3Fj5OORWCsBaR?si=48ca1f27e9cc4e0d
     - import dvd: # 素敵な選TAXI, ガリレオ, のだめカンタービレ
       - title: 選TAXI Opening
         artist: 本間勇輔
@@ -1075,6 +1441,11 @@
         artist: 福山雅治
         links:
           spotify: https://open.spotify.com/track/5lQBkoXivgiXqKicR2uaTh?si=a6bddce58fee4a05
+      - title: Rhapsody in Blue
+        artist: Gershwin
+        links:
+          spotify: https://open.spotify.com/track/0g7AZiNDzDuEYOwV27qoXb?si=97bab5a3f8a94ce0
+          classical: true
       - album: Symphony No. 7
         artist: Beethoven
         links:
@@ -1145,6 +1516,36 @@
         links:
           youtube: https://www.youtube.com/watch?v=F6oOvA58Aps
           classical: true
+      - album: Piano Concerto No. 1
+        artist: Chopin
+        links:
+          youtube: https://www.youtube.com/watch?v=ZR9HayZcZ2o
+          classical: true
+      - album: Piano Conerto No. 2
+        artist: Rachmaninoff
+        links:
+          youtube: https://www.youtube.com/watch?v=l4zkc7KEvYM
+          classical: true
+      - title: Boléro
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/0AeL6W5DmBC44nYAyycitt?si=a2252a5e11224550
+          classical: true
+      - album: Symphony No. 1
+        artist: Brahms
+        links:
+          youtube: https://www.youtube.com/watch?v=DGODw49lSLQ
+          classical: true
+      - title: Midsummer Night's Dream, Overture
+        artist: Mendelssohn
+        links:
+          spotify: https://open.spotify.com/track/7D9oMO6cMskLlWvUmYgsAK?si=f3a2fb4fbb534f4b
+          classical: true
+      - title: Till Eulenspiegels lustige Streiche
+        artist: Strauss
+        links:
+          spotify: https://open.spotify.com/track/1QvfZxj6PhBMhQMLdYgTuB?si=b047e20255f242a7
+          classical: true
 '2014':
   winter:
     - just dancing with ephemeral friends: # 6th grade winter family-friends gathering
@@ -1176,6 +1577,18 @@
         artist: PSY
         links:
           youtube: https://www.youtube.com/watch?v=ASO_zypdnsQ
+  summer:
+    - homebrewing:
+      - album: Piano Concert No. 1
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=2ckJz21GspQ
+          classical: true
+      - album: Violin Concerto in D Major
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=QCKL95HAdQ8
+          classical: true
 '2013':
   autumn:
     - its 7am in the morning in the band room:
