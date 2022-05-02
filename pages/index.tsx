@@ -22,8 +22,9 @@ export default function Home(props: HomeProps) {
         <Card href="/about" subtitle="what's YART?">about</Card>
         <Card href="/about" subtitle="Yuto's Amazing Rad Trinkets">YART</Card>
         <Card href="/grammophon" subtitle="musical timeline">Grammophon</Card>
-        <Card href="/watchtime" subtitle="best-of youtube">watchtime</Card>
         <Card href="/yutoji" subtitle="custom emojis">yutoji</Card>
+        <Card href="/icecamp" subtitle="pick a person">icecamp</Card>
+        <Card href="/watchtime" subtitle="best-of youtube">watchtime</Card>
         <Card href="/pen" subtitle="tooling">pen</Card>
       </section>
       <style jsx>{`
