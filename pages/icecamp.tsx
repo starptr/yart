@@ -41,6 +41,8 @@ export default function Icecamp(props: IcecampProps) {
 
   function handleRoll(_e: React.MouseEvent<HTMLButtonElement>) {
     setRollFace(rollFace => {
+      if (names.length < 2) return rollFace;
+
       let newRollFace = "";
       do {
         const rngIdx = Math.floor(Math.random() * names.length);
