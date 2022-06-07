@@ -1,6 +1,148 @@
 ---
 # make sure to add comments to every (most) lists
 '2022':
+  summer:
+    - chillin in da living room:
+      - title: Second Date
+        artist: Josh Fudge
+        links:
+          spotify: https://open.spotify.com/track/4fdWpd4K7fTX7x7zmEztSK?si=a421a567c07747e3
+      - title: GELATO
+        artist: Floyd Fuji, Carneyval
+        links:
+          spotify: https://open.spotify.com/track/1Nbi2hwlzGxnlYF9I6jhYm?si=80f48806498143d5
+      - title: Are U Coming Over?
+        artist: Hard Car Kids, Charlie Burg, Jacob Sigman, stoop lee, Munch, austenyo, Leo Pastel
+        links:
+          spotify: https://open.spotify.com/track/5tEpgKS0zWnt8X2k3yZgqJ?si=019a1aeb9367438d
+      - title: Daydreamer
+        artist: Kidsnot$aints.
+        links:
+          spotify: https://open.spotify.com/track/2hv4IKmCUHhzZzyMHT0ebu?si=9df39669329146e1
+      - title: Arizona Summer
+        artist: Peter Fenn, SEB
+        links:
+          spotify: https://open.spotify.com/track/3bxlVq7OILLAU55cV9r9vv?si=77d25ce0279d4cc3
+      - title: Funky Galileo
+        artist: Sure Sure
+        links:
+          spotify: https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl?si=c403369780a74b6c
+      - title: Burger King Bathroom
+        artist: Alann8h
+        links:
+          spotify: https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf?si=847ebfa704644786
+      - title: When She's Gone
+        artist: Josh Fudge
+        links:
+          spotify: https://open.spotify.com/track/0sUaoFEGXCQVMrYTMslYY9?si=54dc1d9639c7416b
+      - title: JUNE
+        artist: NASAYA, Floyd Fuji
+        links:
+          spotify: https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw?si=5aec66451990466a
+      - title: Crazy Race
+        artist: The RH Factor
+        links:
+          spotify: https://open.spotify.com/track/4XyKqXYeL0FBPFbDrXLvJZ?si=a6fe5e35658f42b7
+      - title: Moonlight
+        artist: Conor Albert, Mac Ayres
+        links:
+          spotify: https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx?si=68f5429e86904a8e
+      - title: The Way Things Were
+        artist: edbl, Isaac Waddington
+        links:
+          spotify: https://open.spotify.com/track/0DWDipIn5NVK4It1XnvkMQ?si=f6dd7a3b53b746eb
+      - title: Special
+        artist: Fat Night
+        links:
+          spotify: https://open.spotify.com/track/4vVgZDer6avz1Hz395sqCc?si=ef12d9302dea495d
+      - title: Under the Sea
+        artist: Jacob Collier
+        links:
+          spotify: https://open.spotify.com/track/7FNYjfgNPRSWZaWDXKB459?si=987e6b3373564329
+      - title: Sleepless Nights (feat. Phoelix)
+        artist: Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington, Dinner Party, Phoelix
+        links:
+          spotify: https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh?si=9fb33951aea149d7
+      - title: Gidget (feat. Anderson .Paak & T.Nava)
+        artist: Free Nationals, Anderson .Paak, T.Nava
+        links:
+          spotify: https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR?si=ef3e590a03d64711
+      - title: Breathe
+        artist: Sam Wills
+        links:
+          spotify: https://open.spotify.com/track/1KO29IUHcexH583hBewKof?si=fe3155743eac4818
+      - title: The Weather
+        artist: Lawrence
+        links:
+          spotify: https://open.spotify.com/track/6bTCAppl3ahMD79EE40Jhx?si=54c2d08350914713
+      - title: Every Little Thing She Does Is Magic
+        artist: Jacob Collier, Metropole Orkest, Jules Buckley
+        links:
+          spotify: https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp?si=374816928f21462b
+      - title: Sunny Afternoon
+        artist: Benny Sings
+        links:
+          spotify: https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F?si=232375a633ab4a53
+      - title: SUNRISE
+        artist: MICHELLE
+        links:
+          spotify: https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR?si=11a2ecea9d0249f8
+      - title: Feel (feat. Lianne La Havas)
+        artist: Jacob Collier, Lianne La Havas
+        links:
+          spotify: https://open.spotify.com/track/7MGNHuYwmm9UjQgdVciO1v?si=4f4c1feb37514b11
+      - title: Don't Forget
+        artist: Cory Henry
+        links:
+          spotify: https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx?si=a932182d4efd434a
+      - title: Fall Into Place
+        artist: Couch
+        links:
+          spotify: https://open.spotify.com/track/7aKEKEyC00307wqmwmvRh3?si=a1124f98f22d446d
+      - title: Why iii Love The Moon.
+        artist: Phony Ppl
+        links:
+          spotify: https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg?si=5ac4d0aa8a164d7f
+      - title: Switch
+        artist: Cory Henry, The Funk Apostles
+        links:
+          spotify: https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP?si=4d7475084cba4ca6
+      - title: Honest Man
+        artist: Fat Night
+        links:
+          spotify: https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX?si=fb267c7d88f84e40
+      - title: Bathtub
+        artist: Jacob Collier, Becca Stevens
+        links:
+          spotify: https://open.spotify.com/track/1Jmw5CvbagTkFadoZWQxTY?si=6db532146a974fa2
+      - title: Something About You
+        artist: Eyedress, Dent May
+        links:
+          spotify: https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe?si=b6a775f319514509
+      - title: Ecran Le Blanc
+        artist: Miho Tsujibayashi
+        links:
+          spotify: https://open.spotify.com/track/5cZLDcMzfwSfCMwiNVIaeX?si=bc99a9c7142941d6
+      - title: 『82.99 F.M』
+        artist: Macross 82-99
+        links:
+          spotify: https://open.spotify.com/track/76YGvWy36ftupwff9SCl7J?si=5c93dda4ceab4ff0
+      - title: Confusion
+        artist: Nick Wagen
+        links:
+          spotify: https://open.spotify.com/track/2BPulzYOOQEtekqK6FrNEM?si=68fd5d3bbbb3400b
+      - title: Goodbye
+        artist: Miho Tsujibayashi
+        links:
+          spotify: https://open.spotify.com/track/5pmo2MOGwfi0HNVIqDf5IH?si=2f4156af4cf24a39
+      - title: ゆめであえたら
+        artist: Sayonara Ponytail
+        links:
+          spotify: https://open.spotify.com/track/2jBNsVB06rDRdoEnXt9NQl?si=63b421765a804a07
+      - title: ((( escape )))
+        artist: Kaede
+        links:
+          spotify: https://open.spotify.com/track/5pEsE571vJv72zpk2JzFQu?si=af288d0c10f3449e
   spring:
     - nice symphony u got there:
       - title: La Valse - Mouvement de Valse viennoise - Un peu plus modéré - Premier mouvement - Assez animé
@@ -8,6 +150,453 @@
         links:
           spotify: https://open.spotify.com/track/6dAS2i3A0pTv4KNZ2JLTQw?si=a2f153723ed64e7c
           classical: true
+    - a lil break as a treat:
+      - title: scorton's creek - re-imagined by filous
+        artist: Isaac Dunbar, filous
+        links:
+          spotify: https://open.spotify.com/track/5uSwYU4V1hFDZYEHF87RmK?si=77b9820e643241b7
+      - title: Frankenstein
+        artist: Claire Rosinkranz
+        links:
+          spotify: https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB?si=18bbfbeda11a40e3
+      - title: Lemon Tree
+        artist: Fools Garden
+        links:
+          spotify: https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG?si=24dc4465506640b8
+          tiktok: true
+      - title: finding rhythm
+        artist: NEIL FRANCES, GRAE
+        links:
+          spotify: https://open.spotify.com/track/1tXB89xpEt20ZlSbEkxk29?si=d9de2cad68df498d
+      - title: My Mind Is a Maze
+        artist: Alann8h
+        links:
+          spotify: https://open.spotify.com/track/2P4qoMmSqElFcI7GYaPLwf?si=c904193c42194c20
+      - title: Henny in the Hamptons
+        artist: Bren Joy
+        links:
+          spotify: https://open.spotify.com/track/19NKbRV1zevCIzePp88Wzh?si=88307e832b674ea9
+      - title: we made it.
+        artist: david hugo
+        links:
+          spotify: https://open.spotify.com/track/0KpAm8TtyHPZmxdPO7npYO?si=09cf4e6cfdd947d1
+      - title: dancefloor
+        artist: marcos g
+        links:
+          spotify: https://open.spotify.com/track/2D4F8zNSuIxbAGFHCefluM?si=1725eda4a25f4681
+      - title: Die Right Here
+        artist: david hugo
+        links:
+          spotify: https://open.spotify.com/track/7fXYFuCTmNrYRGwEUUf5iz?si=a95b84e37e554522
+      - title: The King
+        artist: Sarah Kinsley
+        links:
+          spotify: https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6?si=527ae05a361d4690
+      - title: That's Life
+        artist: Still Woozy
+        links:
+          spotify: https://open.spotify.com/track/0WHWD1OwKWBiESxUEqf8x0?si=e621b7052de84326
+      - title: FEEL LIKE
+        artist: Josh Fudge
+        links:
+          spotify: https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE?si=7fa6973b952d49d1
+      - title: Get Down
+        artist: Still Woozy
+        links:
+          spotify: https://open.spotify.com/track/30YwNPjL8G6O1GaTP5obhV?si=bd7b7a8e9fb349ef
+      - title: Rocky
+        artist: Still Woozy
+        links:
+          spotify: https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR?si=845a21f2886e483b
+      - title: ❤️
+        artist: Coldplay, We Are KING, Jacob Collier
+        links:
+          spotify: https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK?si=b8c3c11450e44ee1
+      - title: Hello
+        artist: CAPSULE
+        links:
+          spotify: https://open.spotify.com/track/1SpiQqR3jdJ90YWVeEyTdC?si=7a330fd1dd5e4c27
+    - sugardrug:
+      - title: in heat.
+        artist: Hentai Xander
+        links:
+          spotify: https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt?si=4f6cc10b012d4f72
+      - title: SIU
+        artist: Maretu
+        links:
+          spotify: https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g?si=839f1725e13442f1
+      - title: Notice
+        artist: Moe Shop, TORIENA
+        links:
+          spotify: https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN?si=e47912cad9f14cba
+      - title: push it !
+        artist: Wido
+        links:
+          spotify: https://open.spotify.com/track/0plhPq0scNVwBDcpCwoMOV?si=b2f2f0bc691449f9
+      - title: help_urself
+        artist: Ezekiel
+        links:
+          spotify: https://open.spotify.com/track/1lethytswFEKkvfNIjdCC1?si=5009097caf8f4a21
+          tiktok: true
+      - title: Haunted
+        artist: Laura Les
+        links:
+          spotify: https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n?si=f5a5c1650ccd435c
+      - title: glittr
+        artist: aldn
+        links:
+          spotify: https://open.spotify.com/track/3a3ec9kDIIORTRpYoFTfAv?si=6381db4fd6ed4edf
+      - title: Caramelldansen
+        artist: Caramella Girls
+        links:
+          spotify: https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R?si=787e725ed32944c7
+      - title: Not Into You
+        artist: Brooksie
+        links:
+          spotify: https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk?si=a97d1865f9c6424b
+          tiktok: true
+      - title: "#BrooklynBloodPop!"
+        artist: SyKo
+        links:
+          spotify: https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu?si=e627d423fc494357
+          tiktok: true
+          meme: true
+      - title: I'd Rather Sleep
+        artist: Kero Kero Bonito
+        links:
+          spotify: https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW?si=ccc369666d714736
+      - title: Break it off - Bonus
+        artist: PinkPantheress
+        links:
+          spotify: https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1?si=a35a76dcf8ce4283
+      - title: FVN!
+        artist: LVL1
+        links:
+          spotify: https://open.spotify.com/track/6MNwXWX1d2k8ARllRJ5Ezt?si=c341f7e90d744dbe
+      - title: ME!ME!ME! feat. daoko_pt.1
+        artist: 日本アニメ(ーター)見本市, TeddyLoid, Daoko
+        links:
+          spotify: https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP?si=71c31f33c5f04203
+      - title: Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]
+        artist: Getter Jaani
+        links:
+          spotify: https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO?si=4377ce428e314dde
+      - title: IRIS
+        artist: blackwinterwells
+        links:
+          spotify: https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ?si=80cb27809b2141fd
+      - title: Temptation Stairway (Waltz Variation)
+        artist: Metaroom
+        links:
+          spotify: https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR?si=58f0e16c7aba4e4f
+      - title: Bored Beat
+        artist: Aloe Yoroi
+        links:
+          spotify: https://open.spotify.com/track/5JTeZU8YARVilTFdU45sLk?si=50001e896be1430e
+      - title: nthn
+        artist: i9bonsai
+        links:
+          spotify: https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz?si=ec8c0984c5a04071
+      - title: goblin ?
+        artist: Wido
+        links:
+          spotify: https://open.spotify.com/track/53bEas0AlOSbukjlS4sitB?si=40ba6969a92f487c
+    # Intro to PS/AI
+    - graphic design is my passion:
+      - title: Loretta
+        artist: Ginger Root
+        links:
+          spotify: https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD?si=25023d6808da4277
+      - title: AMBER
+        artist: Unusual Demont
+        links:
+          spotify: https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu?si=b0e7659535524a40
+      - title: Go Out
+        artist: KYTES
+        links:
+          spotify: https://open.spotify.com/track/7tYnpPyqNpfth2mPYxdqh3?si=775be9727ad245b2
+      - title: Ghost On The Mend
+        artist: Magic City Hippies
+        links:
+          spotify: https://open.spotify.com/track/32bZRcF2imSuRHdpodPEbQ?si=00ab8bc8924643bd
+      - title: Can I Call You Tonight?
+        artist: Dayglow
+        links:
+          spotify: https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN?si=fc13650fdf674eeb
+      - title: CAN YOU HEAR THE MOON
+        artist: Grady
+        links:
+          spotify: https://open.spotify.com/track/7pcANiSH8mEKLUIPAxiSDr?si=1ccca911f19b4510
+      - title: EXPIRATION DATE
+        artist: MICHELLE
+        links:
+          spotify: https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9?si=8daf823be565470c
+      - title: Toroka
+        artist: Christian Kuria
+        links:
+          spotify: https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB?si=dd4c6cdbf46d4de5
+      - title: Freeze Tag (feat. Phoelix)
+        artist: Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington, Dinner Party, Phoelix
+        links:
+          spotify: https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry?si=d17b946e88aa4c39
+      - title: Close To You
+        artist: Dayglow
+        links:
+          spotify: https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK?si=d99e2ec1484445df
+      - title: Nothing
+        artist: Bruno Major
+        links:
+          spotify: https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy?si=00eafe05e45c4530
+      - title: Strings
+        artist: iyla
+        links:
+          spotify: https://open.spotify.com/track/6rj48XPo5Gk9T7kXFYY93y?si=eb36ccae6ff2429f
+      - title: this is what falling in love feels like
+        artist: JVKE
+        links:
+          spotify: https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx?si=938ef217ecd442b5
+      - title: seaside_demo
+        artist: SEB
+        links:
+          spotify: https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L?si=33a1c27cab204fc0
+      - title: its alright :)
+        artist: Kevin Walkman
+        links:
+          spotify: https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ?si=a3dd94d352a64d1c
+      - title: Don't Text Me When You're Drunk
+        artist: Stacey Ryan, Zai1k
+        links:
+          spotify: https://open.spotify.com/track/0IKpTI3268FUkZ2Z606A0u?si=e717375d13be47f0
+      - title: Lovers In The Night
+        artist: Seori
+        links:
+          spotify: https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo?si=f8e9103769bd4c23
+      - title: Far Away
+        artist: EASHA
+        links:
+          spotify: https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3?si=c9fde4c33a524b6c
+      - title: iloveyou
+        artist: BETWEEN FRIENDS
+        links:
+          spotify: https://open.spotify.com/track/0ygr1n1Xk1UvWrzJXjVVng?si=da62a965cada4691
+      - title: Runaway Kids
+        artist: HARBOUR
+        links:
+          spotify: https://open.spotify.com/track/204N3xuSdqkTdGm21tUwuN?si=736768aef1f444ba
+      - title: West Coast Love
+        artist: Emotional Oranges
+        links:
+          spotify: https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1?si=70c3b7fe88274e49
+      - title: SYNCOPATE
+        artist: MICHELLE
+        links:
+          spotify: https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI?si=414f3d7f97ff4833
+      - title: Sex and Lemonade
+        artist: Nicky Youre, LAIKI
+        links:
+          spotify: https://open.spotify.com/track/7lk2T3kJNEiF4gUV21ISaR?si=45a525438aa64113
+      - title: move
+        artist: brb.
+        links:
+          spotify: https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk?si=98e74812f4114422
+      - title: CHARGER (ft. Charli XCX)
+        artist: ELIO, Charli XCX
+        links:
+          spotify: https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1?si=6eb1f8fb64c747c1
+      - title: Ebb & Flow
+        artist: FELIVAND
+        links:
+          spotify: https://open.spotify.com/track/4xJArZy4XVXmcWOGWDvBpX?si=3215e15162054869
+      - title: Hot Rod
+        artist: Dayglow
+        links:
+          spotify: https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua?si=2d8f05af680b41a3
+      - title: Sweet Talk
+        artist: Saint Motel
+        links:
+          spotify: https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL?si=5690b781e51c4107
+      - title: Futon
+        artist: Ūla
+        links:
+          spotify: https://open.spotify.com/track/0F57gwy0G6aqnaMAH1ELSV?si=400ff90c49054a95
+      - title: Buttercup
+        artist: Jack Stauber
+        links:
+          spotify: https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC?si=9dc6330e88ca4147
+          douyin: true
+      - title: What About U
+        artist: Lemaitre, Anna of the North
+        links:
+          spotify: https://open.spotify.com/track/0nH6czIG4tBlGVZa4LcHYt?si=8730724b615e45d9
+      - title: Sensitive
+        artist: Dreamer Isioma
+        links:
+          spotify: https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3?si=9c9adfc9518140b8
+      - title: Strawberry Skies
+        artist: Kid Travis
+        links:
+          spotify: https://open.spotify.com/track/458EaCXcB9TRBoJEDVcdcr?si=d792288c65844f09
+    - no thoughts just dancing:
+      - title: Pretty Boy (feat. Lil Yachty)
+        artist: Joji, Lil Yachty
+        links:
+          spotify: https://open.spotify.com/track/0f1G5SHFoFC9lO03gHCGVS?si=3aebb55f740d4133
+      - title: Home - Covex Remix
+        artist: Slow Magic, Covex
+        links:
+          spotify: https://open.spotify.com/track/3aaXeQGhzbWcBSPOwqCbhA?si=25f4d3bc7a214cb9
+      - title: DJ Got Us Fallin' In Love (feat. Pitbull)
+        artist: Usher, Pitbull
+        links:
+          spotify: https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn?si=9a36dbf0cc24454b
+      - title: break up with your girlfriend, i'm bored
+        artist: Ariana Grande
+        links:
+          spotify: https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS?si=8808be32788c4834
+      - title: The Time (Dirty Bit)
+        artist: Black Eyed Peas
+        links:
+          spotify: https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u?si=3375d38688f541db
+      - title: Pepas
+        artist: Farruko
+        links:
+          spotify: https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni?si=39a6cd25af454ce8
+      - title: Turn Down for What
+        artist: DJ Snake, Lil Jon
+        links:
+          spotify: https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs?si=24ec1aa948494e50
+      - title: Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)
+        artist: DJ Snake, Selena Gomez, Ozuna, Cardi B
+        links:
+          spotify: https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY?si=ef66ed0440df4434
+      - title: Yeah! (feat. Lil Jon & Ludacris)
+        artist: Usher, Lil Jon, Ludacris
+        links:
+          spotify: https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX?si=8513c4be57184801
+      - title: Kiss Me Thru The Phone
+        artist: Soulja Boy, Sammie
+        links:
+          spotify: https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21?si=69f2fa4a08124cf0
+      - title: Ghostbusters
+        artist: Ray Parker Jr.
+        links:
+          spotify: https://open.spotify.com/track/7MnxdIXJd4N4mHCTPNKhkX?si=ad437095ddae433d
+      - title: I Don't Fuck With You
+        artist: Big Sean, E-40
+        links:
+          spotify: https://open.spotify.com/track/7p54iuWHqvdeN224OglZ9t?si=e747ecc1cf2d49e2
+      - title: TiK ToK
+        artist: Kesha
+        links:
+          spotify: https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i?si=3be386672e394a83
+      - title: Heads Will Roll - A-Trak Remix Radio Edit
+        artist: Yeah Yeah Yeahs, A-Trak
+        links:
+          spotify: https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi?si=d681ec1e6b4e4fff
+      - title: Pursuit Of Happiness - Extended Steve Aoki Remix
+        artist: Kid Cudi, MGMT, Ratatat, Steve Aoki
+        links:
+          spotify: https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ?si=ecc64fe1b8694330
+      - title: Clarity
+        artist: Zedd, Foxes
+        links:
+          spotify: https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c?si=cdcac856796840d8
+      - title: Mood (feat. iann dior)
+        artist: 24kGoldn, iann dior
+        links:
+          spotify: https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m?si=82a819fe8e2f4aca
+      - title: Ms. Jackson
+        artist: Outkast
+        links:
+          spotify: https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV?si=994d5213dc104daf
+      - title: High Hopes
+        artist: Panic! At The Disco
+        links:
+          spotify: https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom?si=9a303419eec9459d
+      - title: Memories
+        artist: Maroon 5
+        links:
+          spotify: https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM?si=8a4e813e799141bc
+      - title: Buttercup
+        artist: Jack Stauber
+        links:
+          spotify: https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC?si=221ec7ee79ba4b05
+      - title: Centuries
+        artist: Fall Out Boy
+        links:
+          spotify: https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq?si=96ee90dcc10f4ab2
+      - title: Uptown Funk (feat. Bruno Mars)
+        artist: Mark Ronson, Bruno Mars
+        links:
+          spotify: https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?si=c3678d3c54de40d8
+      - title: Counting Stars
+        artist: OneRepublic
+        links:
+          spotify: https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1?si=9a6be5a076c34099
+      - title: Anaconda
+        artist: Nicki Minaj
+        links:
+          spotify: https://open.spotify.com/track/794F99D5BQHS5ZGRXAs7I5?si=a1ac79d258364916
+      - title: Toxic
+        artist: Britney Spears
+        links:
+          spotify: https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak?si=59b951da57e34e9c
+      - title: Mo Bamba
+        artist: Sheck Wes
+        links:
+          spotify: https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr?si=ff4146432f9b4171
+      - title: Woman
+        artist: Doja Cat
+        links:
+          spotify: https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4?si=0a4ebb5ff55b47ab
+      - title: Feels (feat. Pharrell Williams, Katy Perry & Big Sean)
+        artist: Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav
+        links:
+          spotify: https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke?si=5605a6b3269544f2
+      - title: Somebody To You
+        artist: The Vamps, Demi Lovato
+        links:
+          spotify: https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65?si=b269674c327b4598
+      - title: Need to Know
+        artist: Doja Cat
+        links:
+          spotify: https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi?si=6fed5794ee5f4649
+      - title: Say So
+        artist: Doja Cat
+        links:
+          spotify: https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ?si=c4e0a2c223f842af
+      - title: Miss The Rage (feat. Playboi Carti)
+        artist: Trippie Redd, Playboi Carti
+        links:
+          spotify: https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq?si=0c2ea20b551c431c
+      - title: Big Boy
+        artist: Payday
+        links:
+          spotify: https://open.spotify.com/track/1bhYwFNqDELshpYfkiHjcO?si=4b2f87ede29241d2
+      - title: Hips Don't Lie (feat. Wyclef Jean)
+        artist: Shakira, Wyclef Jean
+        links:
+          spotify: https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V?si=1a85a8af3b074b62
+      - title: Beautiful Girls
+        artist: Sean Kingston
+        links:
+          spotify: https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx?si=53777c69ec1b4a85
+      - title: Like A G6
+        artist: Far East Movement, The Cataracs, DEV
+        links:
+          spotify: https://open.spotify.com/track/5IaL2LtensPE1x8K4NGaNl?si=3dfd4f75242d405d
+      - title: No Hands (feat. Roscoe Dash & Wale)
+        artist: Waka Flocka Flame, Roscoe Dash, Wale
+        links:
+          spotify: https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H?si=f2aac4d4cc6e494a
+      - title: Redbone
+        artist: Childish Gambino
+        links:
+          spotify: https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR?si=f124d580473d40f6
+      - title: Come Get Her
+        artist: Rae Sremmurd
+        links:
+          spotify: https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP?si=4b1e59f03607474f
 '2021':
   winter:
     - a well-deserved break: # first winter break after "actual" college, before new year
