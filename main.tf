@@ -72,7 +72,10 @@ data "cloudflare_zones" "get_zone_data" {
 
 resource "cloudflare_record" "zone_blog_record" {
   zone_id = data.cloudflare_zones.get_zone_data.zones[0].id
+  # Subdomain
   name    = "@"
+  # Adds documentation-only comment to dashboard
+  comment = "this record was set by terraform from starptr/yart"
   # HACK: Vercel generates default URL like this
   # Ideally, we get access to the IP address for an A record
   value   = "${vercel_project.yart_project.name}.vercel.app"
