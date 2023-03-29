@@ -12,7 +12,7 @@ export interface CardProp {
 };
 
 export default function Card({ href, children, subtitle, image, bgColor }: CardProp) {
-    return <Link href={href}>
+    return <Link href={href} className={`${styles.link}`}>
         <div
             className={`${styles.container} ${utilStyles.centerV} ${utilStyles.box}`}
         >
