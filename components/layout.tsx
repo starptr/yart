@@ -41,7 +41,7 @@ export default function Layout({
         ) : (
           <>
             <h2 className={`${utilStyles.headingLg} ${utilStyles.bold}`}>
-              <Link href="/">
+              <Link href="/" legacyBehavior>
                 <a className={utilStyles.colorInherit}>{name}</a>
               </Link>
             </h2>
@@ -51,7 +51,7 @@ export default function Layout({
       <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
-          <Link href="/">
+          <Link href="/" legacyBehavior>
             <a>← Back to home</a>
           </Link>
         </div>
