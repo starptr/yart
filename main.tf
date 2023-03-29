@@ -37,7 +37,7 @@ variable "cloudflare_api_token" {
 }
 
 resource "vercel_project" "yart_project" {
-  name      = "yart-terra"
+  name      = "yart"
   framework = "nextjs"
 
   git_repository = {
@@ -46,20 +46,13 @@ resource "vercel_project" "yart_project" {
   }
 }
 
-resource "vercel_project_environment_variable" "test_env" {
-  project_id = vercel_project.yart_project.id
-  key        = "HUGO_VERSION"
-  value      = "0.110.0"
-  target     = ["production"]
-}
-
-resource "vercel_deployment" "test_deploy" {
+resource "vercel_deployment" "yart_deploy" {
   project_id = vercel_project.yart_project.id
   ref        = "main"
   production = "true"
 }
 
-resource "vercel_project_domain" "test_domain" {
+resource "vercel_project_domain" "yart_domain" {
   project_id = vercel_project.yart_project.id
   domain     = "yart.me"
 }
