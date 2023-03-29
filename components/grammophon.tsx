@@ -22,7 +22,7 @@ export const iconJsxMapping = {
     "soundcloud": <span className={`${styles.icon} ${styles.soundcloud}`}><GrSoundcloud /></span>,
     "douyin": <span className={`${styles.icon} ${styles.douyin}`}><SiTiktok /></span>,
     "tiktok": <span className={`${styles.icon} ${styles.tiktok}`}><SiTiktok /></span>,
-    "meme": <span className={`${styles.icon} ${styles.meme}`}><Image src={Meme} width="20" height="20" /></span>,
+    "meme": <span className={`${styles.icon} ${styles.meme}`}><Image alt="Meme icon" src={Meme} width="20" height="20" /></span>,
     "classical": <span className={`${styles.icon} ${styles.meme}`}>🎻</span >,
 };
 export interface LinkProps {
