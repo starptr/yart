@@ -1,10 +1,6 @@
 terraform {
   required_version = ">= 1.3.0"
   required_providers {
-    github = {
-      source  = "integrations/github"
-      version = "~> 5.0"
-    }
     vercel = {
       source  = "vercel/vercel"
       version = "~> 0.11.4"
@@ -15,8 +11,6 @@ terraform {
     }
   }
 }
-
-provider "github" {}
 
 # Set up the Vercel provider
 provider "vercel" {
