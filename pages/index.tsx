@@ -22,6 +22,9 @@ export default function Home(props: HomeProps) {
 				<Card href="/about" subtitle="what's YART?">
 					about
 				</Card>
+        <Card href="/links" subtitle="powered by butterfly">
+          yut.to
+        </Card>
 				<Card href="/grammophon" subtitle="musical timeline">
 					Grammophon
 				</Card>
