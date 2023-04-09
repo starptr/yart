@@ -6,8 +6,8 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"lint": "prettier . --write --cache --loglevel warn --ignore-path .gitignore && next lint --fix",
-		"lint-ci": "prettier . --check --ignore-path .gitignore && next lint"
+		"lint": "terraform fmt -recursive . && prettier . --write --cache --loglevel warn --ignore-path .gitignore && next lint --fix",
+		"lint-ci": "terraform fmt -check -recursive . && prettier . --check --ignore-path .gitignore && next lint"
 	},
 	"dependencies": {
 		"date-fns": "^2.11.1",
