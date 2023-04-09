@@ -15,7 +15,7 @@ export default function Home(props: HomeProps) {
 			</Head>
 			<section className={utilStyles.headingMd}>
 				<div className={utilStyles.centerV}>
-					<p>Yuto's Amazing Rad Trinkets</p>
+					<p>Yuto&apos;s Amazing Rad Trinkets</p>
 				</div>
 			</section>
 			<section className={`grid`}>
