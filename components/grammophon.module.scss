@@ -1,9 +1,9 @@
 $thickness: 2px;
 
 .line {
-    width: calc(50% + #{$thickness} / 2);
-    height: 100%;
-    border-right: $thickness solid black;
+	width: calc(50% + #{$thickness} / 2);
+	height: 100%;
+	border-right: $thickness solid black;
 }
 
 .dotCell {
@@ -12,14 +12,14 @@ $thickness: 2px;
 }
 
 .dotCell:first-child > .line {
-    border-right: none;
-    &::after {
-        display: block;
-        height: 50%;
-        transform: translateY(100%);
-        border-right: $thickness solid black;
-        content: "";
-    }
+	border-right: none;
+	&::after {
+		display: block;
+		height: 50%;
+		transform: translateY(100%);
+		border-right: $thickness solid black;
+		content: "";
+	}
 }
 
 .big {
@@ -32,9 +32,9 @@ $thickness: 2px;
 }
 
 .circleWrapper {
-    width: 100%;
-    height: 100%;
-    transform: translateY(-100%);
+	width: 100%;
+	height: 100%;
+	transform: translateY(-100%);
 }
 .circle {
 	border-radius: 9999px;
@@ -42,15 +42,15 @@ $thickness: 2px;
 	background-color: white;
 }
 .fill {
-    background-color: black;
+	background-color: black;
 }
 
 .season {
-    word-spacing: 0.3em;
-    color: #bbb;
+	word-spacing: 0.3em;
+	color: #bbb;
 }
 .seasonContainer {
-    white-space: nowrap;
+	white-space: nowrap;
 }
 
 .text {
@@ -61,27 +61,27 @@ $thickness: 2px;
 }
 
 .list {
-    list-style: none;
+	list-style: none;
 }
 
 .icon {
-    display: inline-block;
-    transform: translateY(2px);
-    margin-right: 4px;
+	display: inline-block;
+	transform: translateY(2px);
+	margin-right: 4px;
 }
 
 .youtube {
-    color: #f00;
+	color: #f00;
 }
 .spotify {
-    color: #1db954;
+	color: #1db954;
 }
 .soundcloud {
-    color: #fe5000;
+	color: #fe5000;
 }
 .tiktok {
-    color: #000000;
+	color: #000000;
 }
 .douyin {
-    color: #e0e0e0;
+	color: #e0e0e0;
 }

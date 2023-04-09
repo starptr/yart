@@ -11,9 +11,9 @@
 - image: asdfjkl.png
   shortcode: asdfjkl
   definition:
-    - stronger version of 😭
-    - NOOO
-    - crying from laughter
+      - stronger version of 😭
+      - NOOO
+      - crying from laughter
 - image: bedge.png
   shortcode: bedge
   definition: goodnight; sweet dreams
@@ -45,15 +45,15 @@
 - image: circle.png
   shortcode: circle
   definition:
-    - deep-fried laughter
-    - when we do a little trolling
+      - deep-fried laughter
+      - when we do a little trolling
 - image: circle_circle.png
   shortcode: circle_circle
   definition: "circlejerk of :circle:"
 - image: circle_skull.png
   shortcode:
-    - circle_skull
-    - srko
+      - circle_skull
+      - srko
   definition: stronger version of 💀
 - image: coolsad.png
   shortcode: coolsad
@@ -65,15 +65,15 @@
 - image: eggdog2.jpg
   shortcode: eggdog2
   definition:
-    - synonym to 🧍‍♂️🧍‍♂️ or 🕴️
-    - bruh
+      - synonym to 🧍‍♂️🧍‍♂️ or 🕴️
+      - bruh
 - image: emme.png
   shortcode: emme
 - image: errors.png
   shortcode: errors
   definition:
-    - synonym to 💀 with some self-humiliation
-    - erroring
+      - synonym to 💀 with some self-humiliation
+      - erroring
 - image: festpee.png
   shortcode: festpee
   definition: "antonym to :peefest:"
@@ -83,8 +83,8 @@
 - image: flush3d.png
   shortcode: flush3d
   definition:
-    - synonym to 😳
-    - oop
+      - synonym to 😳
+      - oop
 - image: flushed-facebook.png
   shortcode: flushed-fb
   definition: mix of 😳 and 😐
@@ -128,8 +128,8 @@
 - image: ironic.png
   shortcode: square
   definition:
-    - deep-fried laughter
-    - "synonym to :circle:"
+      - deep-fried laughter
+      - "synonym to :circle:"
 - image: jazz_music_stops.png
   shortcode: jazz_music_stops
   definition: record scratch effect
@@ -138,8 +138,8 @@
 - image: kirblush.png
   shortcode: kirblush
   definition:
-    - my pleasure
-    - humbly yes
+      - my pleasure
+      - humbly yes
 - image: kirby_angy.png
   shortcode: kirby_angy
   definition: uwu angry
@@ -167,8 +167,8 @@
   definition: monky
 - image: no_thoughts_head_empty.png
   shortcode:
-    - no-thoughts-head-empty
-    - nthe
+      - no-thoughts-head-empty
+      - nthe
   definition: no thoughts head empty
 - image: obama.png
   shortcode: obama
@@ -192,15 +192,15 @@
 - image: peefest.png
   shortcode: peefest
   definition:
-    - oh ok
-    - stronger version of 🥲
+      - oh ok
+      - stronger version of 🥲
 - image: pepewot.png
   shortcode: pepewot
   definition: bruh what
 - image: peppa.png
   shortcode:
-    - peppa
-    - peg
+      - peppa
+      - peg
   definition: hidden dread
 - image: pikachu.png
   shortcode: pikachu
@@ -223,68 +223,68 @@
   definition: deep-fried laughter
 - image: rooBlank.png
   shortcode:
-    - rooBlank
-    - blank;roo
+      - rooBlank
+      - blank;roo
   definition: "synonym to :no-thoughts-head-empty"
 - image: rooDuckDrink.png
   shortcode:
-    - rooDuckDrink
-    - duckDrink;roo
+      - rooDuckDrink
+      - duckDrink;roo
   definition: "synonym to :rooPopcorn:"
 - image: rooEvil.png
   shortcode:
-    - rooEvil
-    - evil;roo
+      - rooEvil
+      - evil;roo
   definition: synonym to 😈
 - image: rooGift.png
   shortcode:
-    - rooGift
-    - gift;roo
+      - rooGift
+      - gift;roo
   definition: here you go!
 - image: rooHmm.png
   shortcode:
-    - rooHmm
-    - hmm;roo
+      - rooHmm
+      - hmm;roo
   definition: synonym to unironic 🤔
 - image: rooLove.png
   shortcode:
-    - rooLove
-    - love;roo
+      - rooLove
+      - love;roo
   definition:
-    - much thx
-    - awww
+      - much thx
+      - awww
 - image: rooOhNo.png
   shortcode:
-    - rooOhNo
-    - ohNo;roo
+      - rooOhNo
+      - ohNo;roo
   definition: oh no!
 - image: rooPopcorn.png
   shortcode:
-    - rooPopcorn
-    - popcorn;roo
+      - rooPopcorn
+      - popcorn;roo
   definition:
-    - watching drama unfold
-    - listening to tea spills
+      - watching drama unfold
+      - listening to tea spills
 - image: rooSad.png
   shortcode:
-    - rooSad
-    - sad;roo
+      - rooSad
+      - sad;roo
   definition: synonym to unironic 😢
 - image: rooSmile.png
   shortcode:
-    - rooSmile
-    - roo-peering-into-your-window-at-3am
+      - rooSmile
+      - roo-peering-into-your-window-at-3am
 - image: rooSmiley.png
   shortcode: rooSmiley
   definition:
-    - "synonym to :smiley;tw:"
-    - "mix of :rooYay: and :smiley;tw:"
+      - "synonym to :smiley;tw:"
+      - "mix of :rooYay: and :smiley;tw:"
 - image: rooSussy.png
   shortcode: rooSussy
 - image: rooYay.png
   shortcode:
-    - rooYay
-    - yay;roo
+      - rooYay
+      - yay;roo
 - image: sad_yeehaw.png
   shortcode: sad_yeehaw
   definition: synonym to 😔
@@ -295,43 +295,43 @@
   shortcode: see
 - image: sign_up.png
   shortcode:
-    - sign_up
-    - yup
+      - sign_up
+      - yup
   definition: synonym to an upvote
 - image: skull laugh.png
   shortcode: skull_laugh_ios
   definition:
-    - synonym to ironic 😂
-    - stronger version of 💀
+      - synonym to ironic 😂
+      - stronger version of 💀
 - image: skull_ios.png
   shortcode: skull_ios
   definition: im dead
 - image: smiley.png
   shortcode:
-    - smiley
-    - smiley;tw
+      - smiley
+      - smiley;tw
   definition:
-    - synonym to 😀
-    - sarcastic "yay"
-    - genuine "yay"
+      - synonym to 😀
+      - sarcastic "yay"
+      - genuine "yay"
 - image: smiley_3d-removebg-preview.png
   shortcode: smiley_3d
   definition: "synonym to :smiley;tw: with oop energy"
 - image: sol69.png
   shortcode: sol69
   definition:
-    - "synonym to :wotthink:"
-    - yeah, it's big brain time
+      - "synonym to :wotthink:"
+      - yeah, it's big brain time
 - image: sol70.png
   shortcode: sol70
   definition: "circlejerk of :sol69:"
 - image: sphere.png
   shortcode:
-    - sphere
-    - laughballs
+      - sphere
+      - laughballs
   definition:
-    - stronger version of ironic 😂
-    - synonym to unironic 😂
+      - stronger version of ironic 😂
+      - synonym to unironic 😂
 - image: sus.png
   shortcode: sus
 - image: sussy.png
@@ -390,8 +390,8 @@
 - image: yeah.png
   shortcode: yeah
   definition:
-    - yeah; unironic content
-    - ironic content
+      - yeah; unironic content
+      - ironic content
 - image: 冋.png
   shortcode: chinese-amogus-origin
   definition: sus
