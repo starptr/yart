@@ -16,8 +16,8 @@ function emoteToJsx(emote: EmoteData) {
 			<div className={`cell`}>
 				{Array.isArray(emote.shortcode) ? (
 					<ul className={`list`}>
-						{emote.shortcode.map(code => (
-							<li>
+						{emote.shortcode.map((code, idx) => (
+							<li key={idx}>
 								<Shortcode>{code}</Shortcode>
 							</li>
 						))}
@@ -29,8 +29,8 @@ function emoteToJsx(emote: EmoteData) {
 			<div className={`cell`}>
 				{Array.isArray(emote.definition) ? (
 					<ul className={`list`}>
-						{emote.definition.map(def => (
-							<li>{def}</li>
+						{emote.definition.map((def, idx) => (
+							<li key={idx}>{def}</li>
 						))}
 					</ul>
 				) : (

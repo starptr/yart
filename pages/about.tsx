@@ -13,7 +13,7 @@ export default function About(props: AboutProps) {
 			<h1>about</h1>
 			<p>
 				Yart is a collection of interesting pieces of (mostly personal) data that I
-				assembled into webpages. Alternatively, you can call them Yuto's Trinkets.
+				assembled into webpages. Alternatively, you can call them Yuto&apos;s Trinkets.
 			</p>
 		</Layout>
 	);

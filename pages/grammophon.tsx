@@ -29,7 +29,9 @@ function songToJsx(song: Song) {
 				</>
 			)}{" "}
 			{song.links &&
-				Object.entries(song.links).map(([icon, link]) => <GLink link={link} icon={icon} />)}
+				Object.entries(song.links).map(([icon, link], idx) => (
+					<GLink key={idx} link={link} icon={icon} />
+				))}
 			<style jsx>{`
 				li {
 					padding-bottom: 0.2em;
@@ -114,8 +116,8 @@ export default function Grammophon(props: GrammophonProps) {
 			<p>💽&nbsp;album or full work</p>
 			<p>🎨&nbsp;artist or composer</p>
 			<h3 className={utilStyles.headingMd}>Links</h3>
-			{Object.entries(iconJsxMapping).map(([text, icon]) => (
-				<p>
+			{Object.entries(iconJsxMapping).map(([text, icon], idx) => (
+				<p key={idx}>
 					{icon}&nbsp;&nbsp;{text}
 				</p>
 			))}
